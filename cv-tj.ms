@@ -5,19 +5,18 @@
 .nr LT 7i
 .nr PS 10p
 .nr VS 15p
+.nr y 1900+\n(yr
 .ds CH
 
 
 .de heading
 .   nf
-.   ps 14
+.   ps 13
 .   B "\\$1"
 \h’0n’\v’-1.2n’\
-\m[headingcolor]\
-\l’\\n(.lu\(ul’\
-\m[default]
-.   ps 10
-.   sp -.2
+\m[headingcolor]
+.   ps 11
+.   sp -1
 .   fi
 ..
 
@@ -25,8 +24,9 @@
 .ps 18
 .B "Tucker Johnson"
 .ps 10
-[musician, technologist]
-
+.I musician,
+.I technologist
+(updated \n(mo-\ny)
 .TS
 tab(;) nospaces;
 l rx.
@@ -40,64 +40,109 @@ T}
 .I "http://newer.systems"
 T}
 .TE
-
 .heading "Education"
 .TS
 tab(;) nospaces;
-rW15|lx.
+rW10|lx.
 \m[default]2021 - now\m[linecolor];T{
 .B "Eastman School of Music"
-\(en Rochester, New York
-.br
-Master of Arts, Music Composition
+[Rochester, NY]
+\(en Master of Arts, Music Composition
 .br
 Primary Teachers: Robert Morris, Mathew Barber, David Liptak
 .sp .5
 T}
 \m[default]2020 - 2021\m[linecolor];T{
 .B "Pennsylvania State University"
-\(en State College, Pennsylvania
-.br
-Bachelor of Music, Music Composition
+[State College, PA]
+\(en Bachelor of Music, Music Composition
 .br
 Primary Teachers: Baljinder Sekhon, Steven Rice
 .sp .5
 T}
-\m[default]2017-2019\m[linecolor];T{
+\m[default]2017 - 2019\m[linecolor];T{
 .B "University of South Florida"
-\(en Tampa, FL
-.br
-Bachelor of Music, Acoustic and Electronic Composition
-.br
-(transfered after fall 2019 semester)
+[Tampa, FL]
+\(en Bachelor of Music, Music Composition
 .br
 Primary Teachers: Paul Reller, Susanna Hancock, Benjamin Whiting
+.br
+(transfered after fall 2019 semester)
+T}
+.TE
+.heading "Roles and Experience"
+.TS
+tab(;) nospaces;
+rW10|lx.
+\m[default]2021 - now\m[linecolor];T{
+.B "Eastman Audio Research Studio (EARS)"
+[Rochester, NY]
+\(en Teaching Assistant
+.br
+Instruct graduate and undergraduate computer music students;
+Provide equipment and services for Eastman concerts (5-7 per semester);
+Maintain EARS website;
+Maintain EARS equipment and facilities
+.sp .5
+T}
+\m[default]2021 - 2022\m[linecolor];T{
+.B "Contemporary Art Music Project"
+[Tampa, FL]
+\(en Podcast Producer/Host
+.br
+Researched, programed, and wrote monthly podcasts;
+Interviewed guests;
+Recorded and produced monthly podcasts
+.sp .5
+T}
+\m[default]2020 - 2021\m[linecolor];T{
+.B "Living Music"
+[State College, PA]
+\(en President
+.br
+Organized and maintain organization rosters;
+Oversaw funding requests;
+Hosted and produced weekly radio show;
+Produced events and concerts (International New Music Festival, Call for Scores, etc.)
+.sp .5
+T}
+\m[default]2020 - 2021\m[linecolor];T{
+.B "ROARS Recording Studio at Penn State"
+[State College, PA]
+\(en Audio/Recording Engineer
+.br
+Produced recordings for Penn State students and faculty;
+Assisted in concert production for concerts (3-5 per semester);
+Maintained ROARS studio equipment and facilities
+.sp .5
+T}
+\m[default]2017 - 2019\m[linecolor];T{
+.B "New Music Consortium"
+[Tampa, FL]
+\(en Logistics Coordinator/Librarian
+.br
+Organized rehearsals;
+Oversaw music rentals;
+Provided scores and parts to performers
+.sp .5
+T}
+.TE
+.heading "Recent Honors and Commissions"
+.TS
+tab(;) nospaces;
+rW5|lx.
+\m[default]2021\m[linecolor];T{
+Commission: Eastman Graduate Composers' Sinfonietta
+.I "(Commonplace Common Tones)"
+.br
+Inducted: Eastman Arts Leadership Certificate Program (class of 2023)
+.br
+Winner: 1st place (Arts and Humanities) Penn State Undergraduate Research Exhibition
+.I "(Listening to Ghosts, Imagining Lost Futures: Metaphor and Structure in Wears and Tears)"
+.sp .5
 T}
 .TE
 
-.heading "Professional Experience"
-.TS
-tab(;) nospaces;
-rW15|lx.
-\m[default]2021 - now\m[linecolor];T{
-.B "Eastman Audio Research Studio (EARS)"
-\(en Rochester, New York
-.br
-Teaching Assistant
-.br
-Instruct graduate and undergraduate computer music students; Provide equipment and services for Eastman concerts (5-7 per semester); Maintain EARS website; Maintain EARS equipment and facilities
-.sp .5
-T}
-\m[default]2020 -2021\m[linecolor];T{
-.B "ROARS Recording Studio at Penn State"
-\(en State College, PA
-.br
-Audio/Recording Engineer
-.br
-Produce recordings for Penn State students and faculty; Assist in concert production for concerts (3-5 per semester);  Maintain ROARS studio equipment and facilities
-.sp .5
-T}
-.TE
 
 .heading "Software/Programming Proficiency"
 Finale,
