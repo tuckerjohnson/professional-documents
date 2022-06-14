@@ -1,4 +1,4 @@
-.fam T
+.fam Junicode
 .nr HM 0.5i
 .nr PO 0.5i
 .nr LL 7i
@@ -25,19 +25,19 @@
 .ps 18
 .B "Tucker Johnson"
 .ps 10
-[composer, improviser, technologist]
+[musician, technologist]
 
 .TS
 tab(;) nospaces;
 l rx.
 169 spring tree ln;T{
-.I "tuckerjohnson.github.io"
+.I "tucker@newer.systems"
 T}
 Rochester, NY;T{
 .I "(727) 483-3689"
 T}
 14612;T{
-.I "tuckerajohnsonmusic@gmail.com"
+.I "http://newer.systems"
 T}
 .TE
 
@@ -45,7 +45,7 @@ T}
 .TS
 tab(;) nospaces;
 rW15|lx.
-\m[default]2021 -\m[linecolor];T{
+\m[default]2021 - now\m[linecolor];T{
 .B "Eastman School of Music"
 \(en Rochester, New York
 .br
@@ -75,12 +75,11 @@ Primary Teachers: Paul Reller, Susanna Hancock, Benjamin Whiting
 T}
 .TE
 
-
 .heading "Professional Experience"
 .TS
 tab(;) nospaces;
 rW15|lx.
-\m[default]2021 -\m[linecolor];T{
+\m[default]2021 - now\m[linecolor];T{
 .B "Eastman Audio Research Studio (EARS)"
 \(en Rochester, New York
 .br
