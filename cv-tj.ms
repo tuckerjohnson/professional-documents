@@ -3,7 +3,7 @@
 .nr PO 0.5i
 .nr LL 7i
 .nr LT 7i
-.nr FM 0.5i
+.nr FM 0.1i
 .nr PS 10p
 .nr VS 15p
 .nr y 1900+\n(yr
@@ -43,7 +43,7 @@ Rochester, NY|T{
 .I "(727) 483-3689"
 T}
 14612|T{
-.I "http://newer.systems"
+.I "www.newer.systems"
 T}
 .TE
 \#
@@ -79,6 +79,7 @@ Primary Teachers: Paul Reller, Susanna Hancock, Benjamin Whiting
 (transfered after fall 2019 semester)
 T}
 .TE
+
 \#
 \#
 \# --------------------------------------------------------
@@ -139,6 +140,7 @@ Provided scores and parts to performers
 .sp .5
 T}
 .TE
+
 \#
 \#
 \# --------------------------------------------------------
@@ -182,6 +184,10 @@ T}
 .br
 \(en Selected Composer: Classical WSMR Modern Notebook Marathon, April 12, 2020
 .I "(CO)"
+.sp .5
+T}
+2019|T{
+\(en Winner
 .sp .5
 T}
 .CW
