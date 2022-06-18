@@ -1,9 +1,9 @@
 .fam Junicode
 .nr HM 0.5i
 .nr PO 0.5i
-.nr LL 7i
+.nr LL 7.25i
 .nr LT 7i
-.nr FM 0.1i
+.nr FM 0.01i
 .nr PS 10p
 .nr VS 15p
 .nr y 1900+\n(yr
@@ -79,7 +79,6 @@ Primary Teachers: Paul Reller, Susanna Hancock, Benjamin Whiting
 (transfered after fall 2019 semester)
 T}
 .TE
-
 \#
 \#
 \# --------------------------------------------------------
@@ -87,6 +86,24 @@ T}
 .TS
 tab(|) nospaces;
 rW10|lx.
+2022 - now|T{
+.B "Hochstein School of Music and Dance"
+[Rochester, NY]
+\(en Intern
+Assist in fundraising campaigns;
+Send mail to donors;
+Shadow Hochstein grant-writing;
+Use Bloomerang Donor Management Systems
+.sp .5
+T}
+2022 - now|T{
+.B "Eastman Graduate Composers' Sinfonietta (GCS)"
+[Rochester, NY]
+\(en Recruiter
+.br
+Recruit performers from the Eastman community for GCS projects from the Eastman community
+.sp .5
+T}
 2021 - now|T{
 .B "Eastman Audio Research Studio (EARS)"
 [Rochester, NY]
@@ -140,7 +157,48 @@ Provided scores and parts to performers
 .sp .5
 T}
 .TE
-
+\#
+\#
+\# --------------------------------------------------------
+.heading "Current and Ongoing Projects"
+.sp .25
+.BI "Anagram: Quiet Jaw, Fine Rain on Tidal Ponds, Formant"
+.br
+A work for piano, oboe, clarinet, horn, and bassoon inspired by Mozart's
+.I "Quintet in Eb major".
+Each of the three movements serves as a reorganization of the musical events in Mozart's work.
+.sp .25
+\#
+.BI "Twenty-One Inventions"
+A series of 21 short piano pieces exploring the diatonic scale through the 15 possible partitions of a group of 7.
+.sp .25
+\#
+.B VISCIS
+(vi-like sound corpus input sequencer)
+.br
+Built using Supercollider,
+.I "VISCIS"
+is an instrument for composition and improvisation that sequences large sound corpora from parametric input.
+.sp .25
+\#
+.B TLCC
+(Tucker's Lisps for Combinatoric Composition)
+.br
+A growing repository of compositional tools written in CLISP for creating combinatoric structures.
+.sp .25
+\#
+.B spank;
+.br
+Duo project with Florida-based percussionist Lionel Martinez.
+Focused on improvised music for bassoon and percussion.(
+.I "spank; + Logan Barrett"
+released independently in September 2020)
+.sp .25
+\#
+.B "Leave Salem"
+.br
+Project with multi-instrumentalist and electronic musician John McGovern focused american primitive guitar and digital signal processing.
+.sp .5
 \#
 \#
 \# --------------------------------------------------------
@@ -187,31 +245,101 @@ T}
 .sp .5
 T}
 2019|T{
-\(en Winner
+.br
+\(en Elected Logistics Coordinator: USF New Music Consortium
+.br
+\(en Winner: Dot-the-Line Call for Scores - Seoul, South Korea
+.I "(CO)"
+.br
+\(en Selected COmposer: USF Contemporary Art Museum - Music for the Visible Turn
 .sp .5
 T}
 .CW
 .TE
-
-
-
-
+\#
+\#
+\# --------------------------------------------------------
+.heading "Festivals, Programs, and Conferences"
+.TS
+tab(|) nospaces;
+rW5|lx.
+2021|T{
+.B "Penn State International New Music Festival"
+[State College, PA (online)]
+\(en planning, hosting
+.br
+performed work:
+.I "Wears and Tears "
+(Amber Lucas - clarinet)
+.sp .5
+T}
+2019|T{
+.B "Nick Cave and Bob Faust Workshop"
+[Tampa, FL]
+\(en Collaborator
+.br
+collaborative multidisciplinary installation:
+.I "Mobillity, on beauty"
+.sp .25
+.B "Composing in the Wilderness"
+[Prince William Sound, AK]
+\(en Selected Composer
+.br
+commissioned work:
+.I "Or Maybe While Crossing"
+.sp .25
+.B "soundSCAPE"
+[Cesena, Italy]
+\(en Selected Composer
+.br
+commissioned work:
+.I "WRITE/TAKE "
+(Dieter Hennings, John Rivera Pico - guitars)
+.sp .25
+.B "Dot-the-Line"
+[Seoul, South Korea]
+\(en Call-for-Scores Winner
+.br
+performed work:
+.I "CO "
+(Changhoon Lee - alto saxophone, Jieun Shin - piano)
+.sp .5
+T}
+2018|T{
+.B "SHASTRA Tabla and Hindustani Rhythm Workshop"
+[Wayne, NJ]
+\(en Selected Composer
+.br
+commissioned work:
+.I "...for the discernment of vocations with... "
+(Shawn Matevetsky - tabla, New Jersey Percussion Ensemble, Payton Macdonald - conductor)
+.sp .25
+.B "USF International New Music Festival"
+[Tampa, FL]
+\(en planning, hosting
+.sp .5
+T}
+.CW
+.TE
+\#
+\#
+\# --------------------------------------------------------
 .heading "Software/Programming Proficiency"
 Finale,
 Sibelius,
 Lilypond,
 Logic Pro,
-Pro Tools,
-Reaper (ReaScript),
-Ableton,
+Reaper,
 Da Vinci Resolve,
-Final Cut,
 OBS,
 Max/MSP,
 Supercollider,
 PureData,
-MATLAB, HTML + CSS + JavaScript,
+HTML + CSS + JS,
 Csound,
 Lua,
 Lisp,
-Groff
+Latex,
+Groff,
+Arch/Artix Linux,
+Linux Pro Audio,
