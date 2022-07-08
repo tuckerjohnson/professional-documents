@@ -181,10 +181,9 @@ Built using Supercollider,
 is an instrument for composition and improvisation that sequences large sound corpora from parametric input.
 .sp .25
 \#
-.B TLCC
-(Tucker's Lisps for Combinatoric Composition)
+.B "Tucker's Tools"
 .br
-A growing repository of compositional tools written in CLISP for creating combinatoric structures.
+A growing repository of compositional tools. Primarily shell scripts.
 .sp .25
 \#
 .B spank;
