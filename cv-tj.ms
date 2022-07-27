@@ -32,7 +32,7 @@
 .ps 10
 .I musician,
 .I technologist
-(updated \n(mo-\ny)
+(CV | updated \n(mo-\ny)
 .TS
 tab(|) nospaces;
 l rx.
