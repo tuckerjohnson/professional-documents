@@ -67,10 +67,12 @@ each year to one graduating Penn State student to pay for
 graduate studies at another institution. Additionally,
 Tucker received two awards for Outstanding Undergraduate
 Research at Penn State: the Peter T. Luckie Award in the
-spring of 2020 (*a presence within reassembly*) and First
-Place Oral Presentation in 2021 (*Listening to Ghosts,
-Imagining Lost Futures: Metaphor and Structure in Wears
-and Tears*). Interested in interdisciplinary practice, He
+spring of 2020
+.I "(a presence within reassembly)"
+and First
+Place Oral Presentation in 2021
+.I "(Listening to Ghosts, Imagining Lost Futures: Metaphor and Structure in Wears and Tears)."
+Interested in interdisciplinary practice, He
 served as a collaborative creator in a workshop with
 artist Nick Cave and the "Music for the Visible Turn"
 concert at the University of South Florida Contemporary
@@ -83,7 +85,7 @@ organized systems. Recent explorations in Tucker's music
 have included prescriptive applications of mathematical
 relationships/number sequences, the reorganization of
 improvised materials, and serial structures. Experiences
-reading, greener hiking and amateur botanizing can be
+reading, hiking and amateur botanizing can be
 found intertwined in his work, alongside interests in
 open-source software and teaching.
 
@@ -91,7 +93,8 @@ As a performer and improviser on bassoon and electronics,
 Tucker participates in various collaborative and solo projects.
 His duo project with percussionist Lionel Martinez (spank;)
 recently released
-.I "spank; + Logan Barrett", a full-length
+.I "spank; + Logan Barrett"
+, a full-length
 album of improvised music. Tucker has recently performed works
 by Peter Ablinger, Sam Pluta, and Leah Mullen.
 
@@ -117,6 +120,30 @@ Pennsylvania State University, where his composition teachers
 were Baljinder Sekhon and Steven Rice. He previously studied
 with Susanna Hancock and Paul Reller at the University of
 South Florida. Tucker is pursuing the MA in music composition
+at the Eastman School of Music, where he serves as a teaching
+assistant for the Eastman Audio Research Studio. There he
+studies with Robert Morris, David Liptak, and Matt Barber.
+
+.BP
+.heading "shrorter bio"
+.sp .5
+Currently based in Rochester, New York, Tucker Johnson's
+musical practice includes works for soloists, ensembles,
+and electronic media.
+Tucker seeks to draw connections between philosophy, mathematics,
+and design through his work. These ideas are often
+synthesized through a blend of experimentation and highly
+organized systems. Recent explorations in Tucker's music
+have included prescriptive applications of mathematical
+relationships/number sequences, the reorganization of
+improvised materials, and serial structures. Experiences
+reading, hiking and amateur botanizing can be
+found intertwined in his work, alongside interests in
+open-source software and teaching.
+Tucker received the BM in music composition from the
+Pennsylvania State University, where his composition teachers
+were Baljinder Sekhon and Steven Rice.
+Tucker is pursuing the MA in music composition
 at the Eastman School of Music, where he serves as a teaching
 assistant for the Eastman Audio Research Studio. There he
 studies with Robert Morris, David Liptak, and Matt Barber.
