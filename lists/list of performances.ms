@@ -51,6 +51,15 @@ T}
 .TS
 tab(|) nospaces;
 rW5|lW30|lw27|lx.
+9/19/22|T{
+.B "Fifteen Inventions"
+.I "selections"
+T}|T{
+Xingyi Chen
+T}|T{
+NY, Rochester: Hatch Recital Hall
+.sp .75
+T}
 4/7/22|T{
 .B "Settle the Score"
 .I "(version for 5 voices)"

@@ -2,11 +2,12 @@
 .nr HM 0.5i
 .nr PO 0.5i
 .nr LL 7.25i
-.nr LT 7i
+.nr LT 7.5i
 .nr FM 0.01i
 .nr PS 10p
 .nr VS 15p
 .nr y 1900+\n(yr
+.ds LH Tucker Johnson \(em CV \D'l 5i 0 '\D'P 0.6m 0 0 0.6m -0.6m 0'
 .ds CH
 
 .de heading
@@ -24,15 +25,25 @@
 .  el \!.BP \\$1
 ..
 
+.de line
+\D'l 4.9i 0 '\D'P -0.6m 0 0 -0.6m 0.6m 0'
+..
+
+\#.ds LH Tucker Johnson
+\#.ds RH CV
 
 \# -----------------------TOP------------------------------
 .ce 0
 .ps 18
 .B "Tucker Johnson"
 .ps 10
-.I musician,
-.I technologist
+.I composer,
+.I technologist,
+.I teacher
 (CV | updated \n(mo-\ny)
+.br
+.line
+.sp -1
 .TS
 tab(|) nospaces;
 l rx.
@@ -59,6 +70,9 @@ rW10|lx.
 \(en Master of Arts, Music Composition
 .br
 Primary Teachers: Robert Morris, Mathew Barber, David Liptak
+.br
+.B "Institute for Music Leadership:"
+Arts Leadership Certificate
 .sp .5
 T}
 2020 - 2021|T{
@@ -90,10 +104,12 @@ rW10|lx.
 .B "Hochstein School of Music and Dance"
 [Rochester, NY]
 \(en Intern
+.br
 Assist in fundraising campaigns;
 Send mail to donors;
 Shadow Hochstein grant-writing;
-Use Bloomerang Donor Management Systems
+Research donors;
+Use Bloomerang donor management systems
 .sp .5
 T}
 2022 - now|T{
@@ -101,7 +117,10 @@ T}
 [Rochester, NY]
 \(en Recruiter
 .br
-Recruit performers from the Eastman community for GCS projects from the Eastman community
+Recruit performers from the Eastman community;
+Plan rehearsals;
+Assist in the creation of the GCS budget;
+Print and deliver parts
 .sp .5
 T}
 2021 - now|T{
@@ -169,22 +188,17 @@ A work for piano, oboe, clarinet, horn, and bassoon inspired by Mozart's
 Each of the three movements serves as a reorganization of the musical events in Mozart's work.
 .sp .25
 \#
-.BI "Twenty-One Inventions"
+.BI "Fifteen Keyboard Inventions"
 .br
-A series of 21 short piano pieces exploring the diatonic scale through the 15 possible partitions of a group of 7.
+A series of 15 short keyboard pieces exploring the diatonic scale through the 15 possible partitions of the integer 7.
 .sp .25
 \#
-.B VISCIS
-(vi-like sound corpus input sequencer)
+.B VISCS
+(vi-like sound corpus sequencer)
 .br
-Built using Supercollider,
+Built using Supercollider and the Fluid Corpus Manipulation tools,
 .I "VISCIS"
 is an instrument for composition and improvisation that sequences large sound corpora from parametric input.
-.sp .25
-\#
-.B "Composition Kit"
-.br
-A growing repository of compositional tools. Written in Common LISP.
 .sp .25
 \#
 .B spank;
@@ -195,10 +209,6 @@ Focused on improvised music for bassoon and percussion.(
 released independently in September 2020)
 .sp .25
 \#
-.B "Leave Salem"
-.br
-Project with multi-instrumentalist and electronic musician John McGovern focused american primitive guitar and digital signal processing.
-.sp .5
 \#
 \#
 \# --------------------------------------------------------
@@ -336,11 +346,11 @@ Max/MSP,
 Supercollider,
 PureData,
 HUGO,
-HTML + CSS + JS,
 Lua,
 Common Lisp,
+Python,
 Latex,
-Groff,
+GNUtroff,
 Arch/Artix Linux,
 Linux Pro Audio
 \#
@@ -348,18 +358,25 @@ Linux Pro Audio
 \#
 \# --------------------------------------------------------
 .heading "List of Replicable Works (performance/playback)"
+.ps 10
 .TS
 tab(|) nospaces;
 rW5|lW50|lw10|lx.
 2022|T{
+.B "Large Orchestra Work*"
+T}|12-15 minutes|T{
+Orchestra
+.sp .75
+T}
+ |T{
 .B "Anagram*:"
 .I "Quiet Jaw, Fine Rain on Tidal Ponds, Formant"
-T}|12 minutes|T{
+T}|22 minutes|T{
 oboe, clarinet, horn, bassoon, piano
 .sp .75
 T}
  |T{
-.B "Twenty-One Inventions*"
+.B "Fifteen Keyboard Inventions*"
 T}|20 minutes|T{
 piano
 .sp .75
@@ -486,7 +503,7 @@ T}
 .B "All of My Life's Work Up Until This Point"
 T}|5 minutes|T{
 cello
-.sp 2
+.sp .75
 T}
  |T{
 .B "JetFuel"
@@ -510,6 +527,24 @@ T}
 .TS
 tab(|) nospaces;
 rW5|lW30|lw27|lx.
+9/19/22|T{
+.B "Fifteen Keyboard Inventions"
+.I "selections"
+T}|T{
+Zihan Wu
+T}|T{
+NY, Rochester: Kilbourn Hall
+.sp .75
+T}
+9/19/22|T{
+.B "Fifteen Keyboard Inventions"
+.I "selections"
+T}|T{
+Xingyi Chen
+T}|T{
+NY, Rochester: Hatch Recital Hall
+.sp .75
+T}
 4/7/22|T{
 .B "Settle the Score"
 .I "(version for 5 voices)"
