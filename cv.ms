@@ -7,7 +7,7 @@
 .nr PS 10p
 .nr VS 15p
 .nr y 1900+\n(yr
-.ds LH Tucker Johnson \(em CV \D'l 5i 0 '\D'P 0.6m 0 0 0.6m -0.6m 0'
+.as LF [% of 6] Tucker Johnson \(em CV \D'l 5i 0 '\D'P 0.6m 0 0 0.6m -0.6m 0'
 .ds CH
 
 .de heading
@@ -29,8 +29,6 @@
 \D'l 4.9i 0 '\D'P -0.6m 0 0 -0.6m 0.6m 0'
 ..
 
-\#.ds LH Tucker Johnson
-\#.ds RH CV
 
 \# -----------------------TOP------------------------------
 .ce 0
@@ -39,7 +37,6 @@
 .ps 10
 .I composer,
 .I technologist,
-.I teacher
 (CV | updated \n(mo-\ny)
 .br
 .line
@@ -63,8 +60,8 @@ T}
 .heading "Education"
 .TS
 tab(|) nospaces;
-rW10|lx.
-2021 - now|T{
+lW10|lx.
+08/21\(em|T{
 .B "Eastman School of Music"
 [Rochester, NY]
 \(en Master of Arts, Music Composition
@@ -75,7 +72,7 @@ Primary Teachers: Robert Morris, Mathew Barber, David Liptak
 Arts Leadership Certificate
 .sp .5
 T}
-2020 - 2021|T{
+01/20\(en05/21|T{
 .B "Pennsylvania State University"
 [State College, PA]
 \(en Bachelor of Music, Music Composition
@@ -83,7 +80,7 @@ T}
 Primary Teachers: Baljinder Sekhon, Steven Rice
 .sp .5
 T}
-2017 - 2019|T{
+08/17\(en12/19|T{
 .B "University of South Florida"
 [Tampa, FL]
 \(en Bachelor of Music, Music Composition
@@ -91,6 +88,7 @@ T}
 Primary Teachers: Paul Reller, Susanna Hancock, Benjamin Whiting
 .br
 (transfered after fall 2019 semester)
+.sp 0.5
 T}
 .TE
 \#
@@ -99,8 +97,30 @@ T}
 .heading "Roles and Experience"
 .TS
 tab(|) nospaces;
-rW10|lx.
-2022 - now|T{
+lW10|lx.
+08/22\(em|T{
+.B "Eastman Graduate Composers' Sinfonietta (GCS)"
+[Rochester, NY]
+\(en Recruiter
+.br
+Recruit performers from the Eastman community;
+Plan rehearsals;
+Assist in the creation of the GCS budget;
+Print and deliver parts
+.sp .5
+T}
+08/21\(em|T{
+.B "Eastman Audio Research Studio (EARS)"
+[Rochester, NY]
+\(en Teaching Assistant
+.br
+Instruct graduate and undergraduate computer music students;
+Provide equipment and services for Eastman concerts (5-7 per semester);
+Maintain EARS website;
+Maintain EARS equipment and facilities
+.sp .5
+T}
+08/22\(en12/22|T{
 .B "Hochstein School of Music and Dance"
 [Rochester, NY]
 \(en Intern
@@ -112,29 +132,7 @@ Research donors;
 Use Bloomerang donor management systems
 .sp .5
 T}
-2022 - now|T{
-.B "Eastman Graduate Composers' Sinfonietta (GCS)"
-[Rochester, NY]
-\(en Recruiter
-.br
-Recruit performers from the Eastman community;
-Plan rehearsals;
-Assist in the creation of the GCS budget;
-Print and deliver parts
-.sp .5
-T}
-2021 - now|T{
-.B "Eastman Audio Research Studio (EARS)"
-[Rochester, NY]
-\(en Teaching Assistant
-.br
-Instruct graduate and undergraduate computer music students;
-Provide equipment and services for Eastman concerts (5-7 per semester);
-Maintain EARS website;
-Maintain EARS equipment and facilities
-.sp .5
-T}
-2021 - 2022|T{
+08/21\(en07/22|T{
 .B "Contemporary Art Music Project"
 [Tampa, FL]
 \(en Podcast Producer/Host
@@ -144,7 +142,7 @@ Interviewed guests;
 Recorded and produced monthly podcasts
 .sp .5
 T}
-2020 - 2021|T{
+01/20\(en04/21|T{
 .B "Living Music"
 [State College, PA]
 \(en President
@@ -155,7 +153,7 @@ Hosted and produced weekly radio show;
 Produced events and concerts (International New Music Festival, Call for Scores, etc.)
 .sp .5
 T}
-2020 - 2021|T{
+01/20\(en04/21|T{
 .B "ROARS Recording Studio at Penn State"
 [State College, PA]
 \(en Audio/Recording Engineer
@@ -165,7 +163,7 @@ Assisted in concert production for concerts (3-5 per semester);
 Maintained ROARS studio equipment and facilities
 .sp .5
 T}
-2017 - 2019|T{
+08/17\(en12/19|T{
 .B "New Music Consortium"
 [Tampa, FL]
 \(en Logistics Coordinator/Librarian
@@ -180,21 +178,33 @@ T}
 \#
 \# --------------------------------------------------------
 .heading "Current and Ongoing Projects"
+\#
+.BI "Untitled Orchestral Piece"
+[composition]
+.br
+A work for moderately sized orchestra. A large scale contrapuntal piece
+focused on the composing out of embedded and overlapping pitch structures.
+I initially explored these structures in my
+.I "Fifteen Keyboard Inventions"
 .sp .25
+\#
 .BI "Anagram: Quiet Jaw, Fine Rain on Tidal Ponds, Formant"
+[composition]
 .br
 A work for piano, oboe, clarinet, horn, and bassoon inspired by Mozart's
 .I "Quintet in Eb major".
 Each of the three movements serves as a reorganization of the musical events in Mozart's work.
 .sp .25
 \#
-.BI "Fifteen Keyboard Inventions"
+.B "spigot DUO"
+[performance]
 .br
-A series of 15 short keyboard pieces exploring the diatonic scale through the 15 possible partitions of the integer 7.
+Duo project with saxophonist Floris Van der Veken. Creating improvised music for saxophone and computers.
+(anticipated independent release Spring 2023)
 .sp .25
 \#
 .B VISCS
-(vi-like sound corpus sequencer)
+(vi-like sound corpus sequencer) [technology]
 .br
 Built using Supercollider and the Fluid Corpus Manipulation tools,
 .I "VISCIS"
@@ -202,6 +212,7 @@ is an instrument for composition and improvisation that sequences large sound co
 .sp .25
 \#
 .B spank;
+[performance]
 .br
 Duo project with Florida-based percussionist Lionel Martinez.
 Focused on improvised music for bassoon and percussion.(
@@ -354,8 +365,8 @@ GNUtroff,
 Arch/Artix Linux,
 Linux Pro Audio
 \#
-.bp
 \#
+.BP
 \# --------------------------------------------------------
 .heading "List of Replicable Works (performance/playback)"
 .ps 10
@@ -522,8 +533,10 @@ tabla, mallet quartet
 T}
 .TE
 \#
+.bp
 \# --------------------------------------------------------
 .heading "List of Performances"
+.ps 9
 .TS
 tab(|) nospaces;
 rW5|lW30|lw27|lx.
@@ -550,9 +563,9 @@ T}
 .I "(version for 5 voices)"
 T}|T{
 Katie Eaton, Nathan McKinstry, Logan Barrett, Artur Korotin
+.sp .75
 T}|T{
 NY, Rochester: Hatch Recital Hall
-.sp .75
 T}
 2/12/22|T{
 .B "Injunctions of Bruckner"
@@ -560,7 +573,7 @@ T}|T{
 John McGovern
 T}|T{
 PA, State College: New Recital Hall
-.sp .75
+.sp .25
 T}
 2/2/22|T{
 .B "Settle the Score"
@@ -569,7 +582,7 @@ T}|T{
 computer: quadrophonic playback
 T}|T{
 NY, Rochester: Kilbourn Hall
-.sp .75
+.sp .25
 T}
 T{
 .BI "2021"
@@ -581,7 +594,7 @@ T}|T{
 Eastman Graduate Composers' Sinfonietta, Nicholas Sharma
 T}|T{
 NY, Rochester: Kilbourn Hall
-.sp .75
+.sp .25
 T}
 5/4/21|T{
 .B "Injunctions of Bruckner"
@@ -589,7 +602,7 @@ T}|T{
 John McGovern
 T}|T{
 MD, University Park: Gildenhorn Recital Hall
-.sp .75
+.sp .25
 T}
 4/25/21|T{
 .B "Falling Paths, Coloring Grounds"
@@ -597,7 +610,7 @@ T}|T{
 Hudson Webber
 T}|T{
 PA, State College: Esber Recital Hall
-.sp .75
+.sp .25
 T}
 4/24/21|T{
 .B "The Ecstasy of Communication"
@@ -605,7 +618,7 @@ T}|T{
 John McGovern
 T}|T{
 PA, State College: Esber Recital Hall
-.sp .75
+.sp .25
 T}
 4/24/21|T{
 .B "A Presence Within Reassembly"
@@ -613,7 +626,7 @@ T}|T{
 quadrophonic playback
 T}|T{
 PA, State College: Esber Recital Hall
-.sp .75
+.sp .25
 T}
 4/24/21|T{
 .B "Wears and Tears"
@@ -621,7 +634,7 @@ T}|T{
 Amber Lucas
 T}|T{
 PA, State College: Esber Recital Hall
-.sp .75
+.sp .25
 T}
 4/24/21|T{
 .B "Falling Paths, Coloring Grounds"
@@ -629,7 +642,7 @@ T}|T{
 Hudson Webber
 T}|T{
 PA, State College: Esber Recital Hall
-.sp .75
+.sp .25
 T}
 4/24/21|T{
 .B "Injunctions of Bruckner"
@@ -637,7 +650,7 @@ T}|T{
 John McGovern
 T}|T{
 PA, State College: Esber Recital Hall
-.sp .75
+.sp .25
 T}
 4/16/21|T{
 .B "Wears and Tears"
@@ -645,7 +658,7 @@ T}|T{
 Amber Lucas
 T}|T{
 PA, State College: Esber Recital Hall
-.sp .75
+.sp .25
 T}
 3/30/21|T{
 .B "Wears and Tears"
@@ -653,7 +666,7 @@ T}|T{
 Amber Lucas
 T}|T{
 Online Event - Penn State International New Music Festival
-.sp .75
+.sp .25
 T}
 T{
 .BI "2020"
@@ -665,7 +678,7 @@ T}|T{
 John McGovern
 T}|T{
 MD, University Park: Gildenhorn Recital Hall
-.sp .75
+.sp .25
 T}
 10/23/20|T{
 .B "A Presence Within Reassembly"
@@ -673,7 +686,7 @@ T}|T{
 quadrophonic playback
 T}|T{
 PA, State College: Water Tower Plaza
-.sp .75
+.sp .25
 T}
 7/5/20|T{
 .B "All of my Life's Work Until This Point"
@@ -681,7 +694,7 @@ T}|T{
 Eduard Teregulov
 T}|T{
 Online Event - (recorded in Dade City, FL)
-.sp .75
+.sp .25
 T}
 5/10/20|T{
 .B "Second-hand Asymmetry"
@@ -689,6 +702,6 @@ T}|T{
 Moreau VanTuinen Duo
 T}|T{
 Online Event
-.sp .75
+.sp .25
 T}
 .TE
