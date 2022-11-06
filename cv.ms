@@ -3,12 +3,13 @@
 .nr PO 0.5i
 .nr LL 7.25i
 .nr LT 7.5i
-.nr FM 0.01i
+.nr FM 0.25i
 .nr PS 10p
 .nr VS 15p
+.nr DD 0.5v
 .nr y 1900+\n(yr
 .as LF [% of 6] Tucker Johnson \(em CV \D'l 5i 0 '\D'P 0.6m 0 0 0.6m -0.6m 0'
-.ds CH
+.ds CH \" empty
 
 .de heading
 .   nf
@@ -23,6 +24,10 @@
 .de BP
 .  ie '\\n(.z'' .bp \\$1
 .  el \!.BP \\$1
+..
+
+.de newpage                         \" define macro
+. bp                                 \" begin page
 ..
 
 .de line
@@ -178,6 +183,7 @@ T}
 \#
 \# --------------------------------------------------------
 .heading "Current and Ongoing Projects"
+.sp .25
 \#
 .BI "Untitled Orchestral Piece"
 [composition]
@@ -210,16 +216,6 @@ Built using Supercollider and the Fluid Corpus Manipulation tools,
 .I "VISCIS"
 is an instrument for composition and improvisation that sequences large sound corpora from parametric input.
 .sp .25
-\#
-.B spank;
-[performance]
-.br
-Duo project with Florida-based percussionist Lionel Martinez.
-Focused on improvised music for bassoon and percussion.(
-.I "spank; + Logan Barrett"
-released independently in September 2020)
-.sp .25
-\#
 \#
 \#
 \# --------------------------------------------------------
@@ -275,7 +271,6 @@ T}
 \(en Selected Composer: USF Contemporary Art Museum - Music for the Visible Turn
 .sp .5
 T}
-.CW
 .TE
 \#
 \#
@@ -340,7 +335,6 @@ commissioned work:
 \(en planning, hosting
 .sp .5
 T}
-.CW
 .TE
 \#
 \#
@@ -364,9 +358,7 @@ Latex,
 GNUtroff,
 Arch/Artix Linux,
 Linux Pro Audio
-\#
-\#
-.BP
+.sp .5
 \# --------------------------------------------------------
 .heading "List of Replicable Works (performance/playback)"
 .ps 10
@@ -533,7 +525,6 @@ tabla, mallet quartet
 T}
 .TE
 \#
-.bp
 \# --------------------------------------------------------
 .heading "List of Performances"
 .ps 9
