@@ -75,7 +75,7 @@ Primary Teachers: Robert Morris, Mathew Barber, David Liptak
 .br
 .B "Institute for Music Leadership:"
 Arts Leadership Certificate
-.sp .5
+.sp .25
 T}
 01/20\(en05/21|T{
 .B "Pennsylvania State University"
@@ -83,7 +83,7 @@ T}
 \(en Bachelor of Music, Music Composition
 .br
 Primary Teachers: Baljinder Sekhon, Steven Rice
-.sp .5
+.sp .25
 T}
 08/17\(en12/19|T{
 .B "University of South Florida"
@@ -93,7 +93,7 @@ T}
 Primary Teachers: Paul Reller, Susanna Hancock, Benjamin Whiting
 .br
 (transfered after fall 2019 semester)
-.sp 0.5
+.sp 0.25
 T}
 .TE
 \#
@@ -112,7 +112,7 @@ Recruit performers from the Eastman community;
 Plan rehearsals;
 Assist in the creation of the GCS budget;
 Print and deliver parts
-.sp .5
+.sp .25
 T}
 08/21\(em|T{
 .B "Eastman Audio Research Studio (EARS)"
@@ -123,7 +123,7 @@ Instruct graduate and undergraduate computer music students;
 Provide equipment and services for Eastman concerts (5-7 per semester);
 Maintain EARS website;
 Maintain EARS equipment and facilities
-.sp .5
+.sp .25
 T}
 08/22\(en12/22|T{
 .B "Hochstein School of Music and Dance"
@@ -135,7 +135,7 @@ Send mail to donors;
 Shadow Hochstein grant-writing;
 Research donors;
 Use Bloomerang donor management systems
-.sp .5
+.sp .25
 T}
 08/21\(en07/22|T{
 .B "Contemporary Art Music Project"
@@ -145,7 +145,7 @@ T}
 Researched, programed, and wrote monthly podcasts;
 Interviewed guests;
 Recorded and produced monthly podcasts
-.sp .5
+.sp .25
 T}
 01/20\(en04/21|T{
 .B "Living Music"
@@ -156,7 +156,7 @@ Organized and maintain organization rosters;
 Oversaw funding requests;
 Hosted and produced weekly radio show;
 Produced events and concerts (International New Music Festival, Call for Scores, etc.)
-.sp .5
+.sp .25
 T}
 01/20\(en04/21|T{
 .B "ROARS Recording Studio at Penn State"
@@ -166,7 +166,7 @@ T}
 Produced recordings for Penn State students and faculty;
 Assisted in concert production for concerts (3-5 per semester);
 Maintained ROARS studio equipment and facilities
-.sp .5
+.sp .25
 T}
 08/17\(en12/19|T{
 .B "New Music Consortium"
@@ -176,7 +176,7 @@ T}
 Organized rehearsals;
 Oversaw music rentals;
 Provided scores and parts to performers
-.sp .5
+.sp .25
 T}
 .TE
 \#
@@ -191,7 +191,7 @@ T}
 A work for moderately sized orchestra. A large scale contrapuntal piece
 focused on the composing out of embedded and overlapping pitch structures.
 I initially explored these structures in my
-.I "Fifteen Keyboard Inventions"
+.I "Fifteen Keyboard Inventions."
 .sp .25
 \#
 .BI "Anagram: Quiet Jaw, Fine Rain on Tidal Ponds, Formant"
@@ -223,6 +223,10 @@ is an instrument for composition and improvisation that sequences large sound co
 .TS
 tab(|) nospaces;
 rW5|lx.
+2022|T{
+\(en Scholarship: Warren Benson Scholarship in Composition, ESM
+.sp .25
+T}
 2021|T{
 \(en Commission: Eastman Graduate Composers' Sinfonietta
 .I "(Commonplace Common Tones)"
@@ -246,7 +250,7 @@ rW5|lx.
 .I "(Even the Pieces I Can't Remember)"
 .br
 \(en Scholarship Award: Miller/Junker Scholarship in Music, PSU
-.sp .5
+.sp .25
 T}
 2020|T{
 \(en Winner: Marjorie Jane Brewster Competition, PSU
@@ -259,7 +263,7 @@ T}
 .br
 \(en Selected Composer: Classical WSMR Modern Notebook Marathon, April 12, 2020
 .I "(CO)"
-.sp .5
+.sp .25
 T}
 2019|T{
 .br
@@ -269,7 +273,7 @@ T}
 .I "(CO)"
 .br
 \(en Selected Composer: USF Contemporary Art Museum - Music for the Visible Turn
-.sp .5
+.sp .25
 T}
 .TE
 \#
@@ -279,6 +283,16 @@ T}
 .TS
 tab(|) nospaces;
 rW5|lx.
+2022|T{
+.B "Vibraphone Century"
+[State College, PA]
+\(en composer
+.br
+performed work:
+.I "Injunctions of Bruckner "
+(John McGovern - vibraphone)
+.sp .25
+T}
 2021|T{
 .B "Penn State International New Music Festival"
 [State College, PA (online)]
@@ -287,7 +301,7 @@ rW5|lx.
 performed work:
 .I "Wears and Tears "
 (Amber Lucas - clarinet)
-.sp .5
+.sp .25
 T}
 2019|T{
 .B "Nick Cave and Bob Faust Workshop"
@@ -296,14 +310,14 @@ T}
 .br
 collaborative multidisciplinary installation:
 .I "Mobillity, on beauty"
-.sp .25
+.br
 .B "Composing in the Wilderness"
 [Prince William Sound, AK]
 \(en Selected Composer
 .br
 commissioned work:
 .I "Or Maybe While Crossing"
-.sp .25
+.br
 .B "soundSCAPE"
 [Cesena, Italy]
 \(en Selected Composer
@@ -311,7 +325,7 @@ commissioned work:
 commissioned work:
 .I "WRITE/TAKE "
 (Dieter Hennings, John Rivera Pico - guitars)
-.sp .25
+.br
 .B "Dot-the-Line"
 [Seoul, South Korea]
 \(en Call-for-Scores Winner
@@ -319,7 +333,7 @@ commissioned work:
 performed work:
 .I "CO "
 (Changhoon Lee - alto saxophone, Jieun Shin - piano)
-.sp .5
+.sp .25
 T}
 2018|T{
 .B "SHASTRA Tabla and Hindustani Rhythm Workshop"
@@ -357,8 +371,9 @@ Python,
 Latex,
 GNUtroff,
 Arch/Artix Linux,
-Linux Pro Audio
-.sp .5
+Linux Pro Audio,
+Octave/MATLAB
+.bp
 \# --------------------------------------------------------
 .heading "List of Replicable Works (performance/playback)"
 .ps 10

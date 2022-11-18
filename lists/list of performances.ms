@@ -8,6 +8,8 @@
 .nr VS 15p
 .nr y 1900+\n(yr
 .ds CH
+.as LF [% of 2] Tucker Johnson \(em list of performances \D'l 4.2i 0 '\D'P 0.6m 0 0 0.6m -0.6m 0'
+.ds CH \" empty
 
 .de heading
 .   nf
@@ -24,6 +26,13 @@
 .  el \!.BP \\$1
 ..
 
+.de newpage                         \" define macro
+. bp                                 \" begin page
+..
+
+.de line
+\D'l 4.9i 0 '\D'P -0.6m 0 0 -0.6m 0.6m 0'
+..
 
 \# -----------------------TOP------------------------------
 .ce 0
@@ -32,6 +41,8 @@
 .ps 10
 .I composer
 (updated \n(mo-\ny)
+.br
+.line
 .TS
 tab(|) nospaces;
 l rx.
@@ -48,11 +59,21 @@ T}
 \#
 \# --------------------------------------------------------
 .heading "List of Performances"
+.ps 10
 .TS
 tab(|) nospaces;
 rW5|lW30|lw27|lx.
+11/17/22|T{
+.B "Fifteen Keyboard Inventions"
+.I "selections"
+T}|T{
+Zihan Wu
+T}|T{
+NY, Rochester: Hatch Recital Hall
+.sp .75
+T}
 9/19/22|T{
-.B "Fifteen Inventions"
+.B "Fifteen Keyboard Inventions"
 .I "selections"
 T}|T{
 Xingyi Chen
@@ -84,12 +105,12 @@ T}|T{
 computer: quadrophonic playback
 T}|T{
 NY, Rochester: Kilbourn Hall
-.sp .75
+.sp 1.75
 T}
 T{
 .BI "2021"
-T}
- | | | |
+T}|\(em |\(em |\(em
+ |
 11/10/21|T{
 .B "Commonplace Common Tones"
 T}|T{
@@ -172,8 +193,8 @@ Online Event - Penn State International New Music Festival
 T}
 T{
 .BI "2020"
-T}
- | | | |
+T}|\(em |\(em |\(em
+ |
 11/20/20|T{
 .B "The Ecstasy of Communication"
 T}|T{
