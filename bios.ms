@@ -30,8 +30,7 @@
 .ps 18
 .B "Tucker Johnson"
 .ps 10
-.I musician,
-.I technologist
+.I "composer, improviser, technologist"
 (bios | updated \n(mo-\ny)
 .TS
 tab(|) nospaces;
@@ -125,7 +124,7 @@ assistant for the Eastman Audio Research Studio. There he
 studies with Robert Morris, David Liptak, and Matt Barber.
 
 .BP
-.heading "shrorter bio"
+.heading "shorter bio"
 .sp .5
 Currently based in Rochester, New York, Tucker Johnson's
 musical practice includes works for soloists, ensembles,
