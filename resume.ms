@@ -40,8 +40,7 @@
 .ps 18
 .B "Tucker Johnson"
 .ps 10
-.I composer,
-.I technologist
+.I "composer, improviser, technologist"
 (resume | updated \n(mo-\ny)
 .br
 .line
