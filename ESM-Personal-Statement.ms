@@ -64,16 +64,19 @@ Sekhon and Dr. SC Rice. I will graduate from Eastman in May of 2022 and plan to
 begin my doctoral studies in Fall of 2023.
 .sp 0.5
 .PP
-My musical output is bifurcated by practices in both composition and performance.
-My compositional practice includes concertized works for soloists, ensembles, and
+My compositional practice includes concert works for soloists, ensembles, and
 electronic media, as well as works designed for indoor or outdoor installation. In
-my composed works I create highly organized systems to create connections between
+my composed works I create highly organized systems to build connections between
 philosophy, design, and personal experiences reading and hiking. Much of this work
 also communes with music from other times and places, establishing connections and
-references to histories of musical culture.
+references to histories of musical culture. Much of my work has been concertized at
+programs, festivals, and conferences nationally and internationally.
+
+
+
 My practice as a performer focuses on collaborative electroacousitic improvisation.
 Here I explore musical intersubjectivity with long-term collaborators, developing
-performance aesthtics through dialogue and consensus through musical and personal
+performance aesthtics through dialogue and consensus in musical and personal
 interaction.
 
 
