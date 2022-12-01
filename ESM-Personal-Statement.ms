@@ -1,13 +1,12 @@
 .nr HM 0.5i
-.nr PO 0.5i
-.nr LL 7.25i
+.nr PO 0.75i
+.nr LL 6.75i
 .nr LT 7.5i
-.nr FM 0.25i
+.nr FM 0.5i
 .nr PS 12p
 .nr VS 15p
 .nr DD 0.5v
 .nr y 1900+\n(yr
-.as LF [% of 10] Tucker Johnson \(em CV \D'l 5i 0 '\D'P 0.6m 0 0 0.6m -0.6m 0'
 .ds CH \" empty
 
 .de heading
@@ -60,7 +59,7 @@ Certificate at Eastman where I have studied with Dr. Robert Morris, Dr. David Li
 and Dr. Matthew Barber. At Eastman, I fill a graduate assistant postion in the
 Eastman Audio Research Studio. Prior to my time at Eastman, I completed the BM in
 composition at Pennsylvania State University where I studied with Dr. Baljinder
-Sekhon and Dr. SC Rice. I will graduate from Eastman in May of 2022 and plan to
+Sekhon and Dr. SC Rice. I will graduate from Eastman in May of 2023 and plan to
 begin my doctoral studies in Fall of 2023.
 .sp 0.5
 .PP
@@ -69,20 +68,23 @@ electronic media, as well as works designed for indoor or outdoor installation. 
 my composed works I create highly organized systems to build connections between
 philosophy, design, and personal experiences reading and hiking. Much of this work
 also communes with music from other times and places, establishing connections and
-references to histories of musical culture. Much of my work has been concertized at
-programs, festivals, and conferences nationally and internationally.
-
-
-
-My practice as a performer focuses on collaborative electroacousitic improvisation.
-Here I explore musical intersubjectivity with long-term collaborators, developing
-performance aesthtics through dialogue and consensus in musical and personal
-interaction.
-
-
-Much of this work has been programmed at festivals and
-conferences, both nationally and internationally.
-
-My involvement at events such as
-the Shastra Tabla Rhythm Workshop (USA), Dot-the-Line Festival (South Korea), soundSCAPE
-(Italy), Composing in the Wilderness, and the Vibraphone Century (USA),
+references to histories of musical culture. My compositions have been concertized at
+programs, festivals, and conferences nationally and internationally. My involvement
+at events such as the Shastra Tabla Rhythm Workshop (NJ), Dot-the-Line Festival
+(South Korea), soundSCAPE (Italy), Composing in the Wilderness (AK/NY), and the
+Vibraphone Century (PA) have created strong foundations and connections for future
+collaborations. These engagements highlight my involvement in the larger
+new-music community, building relationships with other composers, performers, and
+researchers.
+.sp 0.5
+.PP
+In addition to my productive compositional practice, I am equally committed to
+research in the field. While at Penn State I recieved two undergraduate research
+awards for research involving computer music: the Peter T. Luckie Award for
+outstanding research in arts and humanities for my work
+.I "A Presence Within Reassembly"
+and the first place award in arts and humanities for my interactive work for clarinet
+and computer
+.I "Wears and Tears" .
+Currently, I hold a graduate assistantship at the Eastman Audio Research Studio where
+I assist in teaching introductory and advanced computer music students
