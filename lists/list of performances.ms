@@ -64,6 +64,66 @@ T}
 tab(|) nospaces;
 rW5|lW30|lw27|lx.
 date|title|performer(s)|venue|
+4/16/23|T{
+.B "Outroads Out, Inroads In*"
+.sp -0.2
+.I "[clarinet, piano]"
+.sp 0.73
+T}|T{
+Amber Lucas
+.sp .75
+T}|T{
+MI, East Lansing
+T}
+3/26/23|T{
+.B "Improvisation*"
+.sp -0.2
+.I "[Johnson/Van der Veken]"
+.sp 0.73
+T}|T{
+Tucker Johnson, Floris Van Der Veken
+.sp .75
+T}|T{
+NY, Rochester: Klibourn Hall
+T}
+3/24/23|T{
+.B "Settle the Score*"
+.sp -0.2
+.I "[mixed quartet, computer]"
+.sp 0.73
+T}|T{
+Katie Eaton, Nathan McKinstry, Austin White, Artur Korotin, Amber Lucas
+.sp .75
+T}|T{
+PA, State College: Esber Hall
+T}
+3/3/23|T{
+.B "...for me, the cowbell...*"
+.sp -0.2
+.I "[percussion]"
+.sp 0.73
+T}|T{
+John McGovern
+T}|T{
+MD, University Park: Gildenhorn Recital Hall
+.sp .75
+T}
+2/1/23|T{
+.B "Fifteen Keyboard Inventions"
+.I "selections"
+.sp -0.2
+.I "[keyboard]"
+.sp 0.73
+T}|T{
+Ko Muramatsu
+T}|T{
+NY, Rochester: Kilbourn Hall
+.sp .75
+T}
+T{
+.BI "2022"
+T}| \(em \(em \(em \(em | \(em \(em \(em \(em | \(em \(em \(em \(em
+ |
 11/17/22|T{
 .B "Fifteen Keyboard Inventions"
 .I "selections"

@@ -64,8 +64,26 @@ T}
 tab(|) nospaces;
 rW5|lW50|lw10|lx.
 [year]|[title]|[duration]|[forces]
+2023|T{
+.B "Outroads Out, Inroads In*"
+T}|12 minutes|T{
+clarinet, piano
+.sp .75
+T}
+ |T{
+.B "an Articulation of Many*"
+T}|7 minutes|T{
+orchestra
+.sp .75
+T}
+ |T{
+.B "...for me, the cowbell...*"
+T}|8 minutes|T{
+percussion
+.sp .75
+T}
 2022|T{
-.B "Fifteen Keyboard Inventions*"
+.B "Fifteen Inventions"
 T}|20 minutes|T{
 piano
 .sp .75
