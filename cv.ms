@@ -1,4 +1,3 @@
-.fam Junicode
 .nr HM 0.5i
 .nr PO 0.5i
 .nr LL 7.25i
@@ -26,12 +25,8 @@
 .  el \!.BP \\$1
 ..
 
-.de newpage                         \" define macro
-. bp                                 \" begin page
-..
-
 .de line
-\D'l 4.9i 0 '\D'P -0.6m 0 0 -0.6m 0.6m 0'
+\D'l 5.2i 0 '\D'P -0.6m 0 0 -0.6m 0.6m 0'
 ..
 
 
@@ -40,7 +35,7 @@
 .ps 18
 .B "Tucker Johnson"
 .ps 10
-.I "composer, improviser, technologist"
+.I "composer, improviser, technologist "
 (CV | updated \n(mo-\ny)
 .br
 .line
@@ -55,36 +50,37 @@ Rochester, NY|T{
 .I "(727) 483-3689"
 T}
 14612|T{
-.I "www.newer.systems"
+.I "https://newer.systems"
 T}
 .TE
-\#
-\#
 \# --------------------------------------------------------
 .heading "Education"
 .TS
 tab(|) nospaces;
 lW10|lx.
-08/21\(em|T{
+08/21 \(en 05/23|T{
 .B "Eastman School of Music"
 [Rochester, NY]
-\(en Master of Arts, Music Composition
-.br
-Primary Teachers: Robert Morris, Mathew Barber, David Liptak
+\(en
+.B "Master of Arts" ,
+Music Composition
 .br
 .B "Institute for Music Leadership:"
 Arts Leadership Certificate
+.br
+Primary Teachers: Robert Morris, Mathew Barber, David Liptak
+.br
 .sp .25
 T}
-01/20\(en05/21|T{
+01/20 \(en 05/21|T{
 .B "Pennsylvania State University"
 [State College, PA]
 \(en Bachelor of Music, Music Composition
 .br
-Primary Teachers: Baljinder Sekhon, Steven Rice
+Primary Teachers: Baljinder Sekhon, Sarah Genevieve Burghart Rice
 .sp .25
 T}
-08/17\(en12/19|T{
+08/17 \(en 12/19|T{
 .B "University of South Florida"
 [Tampa, FL]
 \(en Bachelor of Music, Music Composition
@@ -95,8 +91,6 @@ Primary Teachers: Paul Reller, Susanna Hancock, Benjamin Whiting
 .sp 0.25
 T}
 .TE
-\#
-\#
 \# --------------------------------------------------------
 .heading "Roles and Experience"
 .TS
@@ -178,45 +172,6 @@ Provided scores and parts to performers
 .sp .25
 T}
 .TE
-\#
-\#
-\# --------------------------------------------------------
-.heading "Current and Ongoing Projects"
-.sp .25
-\#
-.BI "Untitled Orchestral Piece"
-[composition]
-.br
-A work for moderately sized orchestra. A large scale contrapuntal piece
-focused on the composing out of embedded and overlapping pitch structures.
-I initially explored these structures in my
-.I "Fifteen Keyboard Inventions."
-.sp .25
-\#
-.BI "Anagram: Quiet Jaw, Fine Rain on Tidal Ponds, Formant"
-[composition]
-.br
-A work for piano, oboe, clarinet, horn, and bassoon inspired by Mozart's
-.I "Quintet in Eb major".
-Each of the three movements serves as a reorganization of the musical events in Mozart's work.
-.sp .25
-\#
-.B "spigot DUO"
-[performance]
-.br
-Duo project with saxophonist Floris Van der Veken. Creating improvised music for saxophone and computers.
-(anticipated independent release Spring 2023)
-.sp .25
-\#
-.B VISCS
-(vi-like sound corpus sequencer) [technology]
-.br
-Built using Supercollider and the Fluid Corpus Manipulation tools,
-.I "VISCIS"
-is an instrument for composition and improvisation that sequences large sound corpora from parametric input.
-.sp .25
-\#
-\#
 \# --------------------------------------------------------
 .heading "Honors and Commissions"
 .TS
@@ -275,13 +230,20 @@ T}
 .sp .25
 T}
 .TE
-\#
-\#
 \# --------------------------------------------------------
 .heading "Festivals, Programs, and Conferences"
 .TS
 tab(|) nospaces;
 rW5|lx.
+2023|T{
+.B "Penn State Internationational New Music Festival"
+[State College, PA]
+\(en Selected Composer
+.br
+performed work:
+.I "Settle the Score"
+.sp .25
+T}
 2022|T{
 .B "Vibraphone Century"
 [State College, PA]
@@ -349,8 +311,6 @@ commissioned work:
 .sp .5
 T}
 .TE
-\#
-\#
 \# --------------------------------------------------------
 .heading "Software/Programming Proficiency"
 Finale,
@@ -370,7 +330,7 @@ GNUtroff,
 Arch/Artix Linux,
 Linux Pro Audio,
 Octave/MATLAB
-.bp
+.sp .5
 \# --------------------------------------------------------
 .heading "Complete List of Replicable Work (through performance or playback)"
 .ps 10

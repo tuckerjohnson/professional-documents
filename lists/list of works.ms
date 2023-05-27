@@ -1,4 +1,3 @@
-.fam Junicode
 .nr HM 0.5i
 .nr PO 0.5i
 .nr LL 7.25i
@@ -25,9 +24,6 @@
 .  ie '\\n(.z'' .bp \\$1
 .  el \!.BP \\$1
 ..
-
-.de newpage                         \" define macro
-. bp                                 \" begin page
 ..
 
 .de line
@@ -53,7 +49,7 @@ Rochester, NY|T{
 .I "(727) 483-3689"
 T}
 14612|T{
-.I "www.newer.systems"
+.I "https://newer.systems"
 T}
 .TE
 \#
@@ -65,30 +61,23 @@ tab(|) nospaces;
 rW5|lW50|lw10|lx.
 [year]|[title]|[duration]|[forces]
 2023|T{
-.B "Outroads Out, Inroads In*"
-T}|12 minutes|T{
-clarinet, piano
+.B "Circumnutation"
+T}|11 minutes|T{
+keyboard
 .sp .75
 T}
  |T{
-.B "an Articulation of Many*"
-T}|7 minutes|T{
-orchestra
-.sp .75
-T}
- |T{
-.B "...for me, the cowbell...*"
+.B "...for me, the cowbell..."
 T}|8 minutes|T{
 percussion
+T}
+ |T{
+.I "commissioned by John McGovern"
+.sp .75
+T}| |T{
 .sp .75
 T}
 2022|T{
-.B "Fifteen Inventions"
-T}|20 minutes|T{
-piano
-.sp .75
-T}
- |T{
 .B "Settle the Score"
 .I "in one or five parts"
 T}|1-5 minutes|T{
@@ -223,9 +212,9 @@ T}
 .B "WRITE/TAKE"
 .sp 0
 .I "for soundSCAPE"
+.sp .75
 T}|6 minutes|T{
 guitar duo
-.sp .75
 T}
  |T{
 .B "CO"
