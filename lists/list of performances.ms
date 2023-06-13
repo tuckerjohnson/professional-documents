@@ -1,4 +1,3 @@
-.fam Junicode
 .nr HM 0.5i
 .nr PO 0.5i
 .nr LL 7.25i
@@ -8,7 +7,7 @@
 .nr VS 15p
 .nr y 1900+\n(yr
 .ds CH
-.as LF [% of 5] Tucker Johnson \(em list of performances \D'l 4.2i 0 '\D'P 0.6m 0 0 0.6m -0.6m 0'
+.as LF [% of 5] Tucker Johnson \(em list of performances \D'l 4.2i 0 '\D'P 0.6m 0 0 0.6m 0.6m 0'
 .ds CH \" empty
 
 .de heading
@@ -25,13 +24,10 @@
 .  ie '\\n(.z'' .bp \\$1
 .  el \!.BP \\$1
 ..
-
-.de newpage                         \" define macro
-. bp                                 \" begin page
 ..
 
 .de line
-\D'l 4.9i 0 '\D'P -0.6m 0 0 -0.6m 0.6m 0'
+\D'l 4.3i 0 '\D'P -0.6m 0 0 -0.6m -0.6m 0'
 ..
 
 \# -----------------------TOP------------------------------
@@ -39,10 +35,11 @@
 .ps 18
 .B "Tucker Johnson"
 .ps 10
-.I "composer, improviser, technologist"
-(updated \n(mo-\ny)
-.br
+.I "composer, improviser"
+(updated \n(mo \(en \ny)
+.sp -0.5
 .line
+.sp -1
 .TS
 tab(|) nospaces;
 l rx.
@@ -53,9 +50,12 @@ Rochester, NY|T{
 .I "(727) 483-3689"
 T}
 14612|T{
-.I "www.newer.systems"
+.I "https://newer.systems"
 T}
 .TE
+.sp -1
+\D'l 7.25i 0'
+.sp 0.2
 \#
 \# --------------------------------------------------------
 .heading "List of Performances"
@@ -63,20 +63,20 @@ T}
 .TS
 tab(|) nospaces;
 rW5|lW30|lw27|lx.
-date|title|performer(s)|venue|
-4/16/23|T{
-.B "Outroads Out, Inroads In*"
+[date]|[title]|[performer(s)]|[venue]|
+6/14/23|T{
+.B "CO"
 .sp -0.2
-.I "[clarinet, piano]"
+.I "[saxophone, piano]"
 .sp 0.73
 T}|T{
-Amber Lucas
-.sp .75
+Katherine Weintraub, Eunmi Ko
+.sp 0.75
 T}|T{
-MI, East Lansing
+FL, St. Petersburg: The Palladium
 T}
 3/26/23|T{
-.B "Improvisation*"
+.B "Improvisation"
 .sp -0.2
 .I "[Johnson/Van der Veken]"
 .sp 0.73
@@ -87,7 +87,7 @@ T}|T{
 NY, Rochester: Klibourn Hall
 T}
 3/24/23|T{
-.B "Settle the Score*"
+.B "Settle the Score"
 .sp -0.2
 .I "[mixed quartet, computer]"
 .sp 0.73
@@ -98,7 +98,7 @@ T}|T{
 PA, State College: Esber Hall
 T}
 3/3/23|T{
-.B "...for me, the cowbell...*"
+.B "...for me, the cowbell..."
 .sp -0.2
 .I "[percussion]"
 .sp 0.73
@@ -159,9 +159,9 @@ T}|T{
 NY, Rochester: ESM Ray Wright Room
 T}
 9/28/22|T{
-.B "spigot 1"
+.B "Improvisation"
 .sp -0.2
-.I "[spigot duo performance]"
+.I "[Johnson/Van der Veken]"
 .sp 0.73
 T}|T{
 Tucker Johnson, Floris Van Der Veken

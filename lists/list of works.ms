@@ -7,7 +7,7 @@
 .nr VS 15p
 .nr y 1900+\n(yr
 .ds CH
-.as LF [% of 3] Tucker Johnson \(em list of works \D'l 4.2i 0 '\D'P 0.6m 0 0 0.6m -0.6m 0'
+.as LF [% of 3] Tucker Johnson \(em list of works \D'l 4.2i 0 '\D'P 0.6m 0 0 0.6m 0.6m 0'
 .ds CH \" empty
 
 .de heading
@@ -27,7 +27,7 @@
 ..
 
 .de line
-\D'l 4.9i 0 '\D'P -0.6m 0 0 -0.6m 0.6m 0'
+\D'l 4.3i 0 '\D'P -0.6m 0 0 -0.6m -0.6m 0'
 ..
 
 \# -----------------------TOP------------------------------
@@ -35,10 +35,11 @@
 .ps 18
 .B "Tucker Johnson"
 .ps 10
-.I "composer, improviser, technologist"
-(updated \n(mo-\ny)
-.br
+.I "composer, improviser"
+(updated \n(mo \(en \ny)
+.sp -0.5
 .line
+.sp -1
 .TS
 tab(|) nospaces;
 l rx.
@@ -52,9 +53,12 @@ T}
 .I "https://newer.systems"
 T}
 .TE
+.sp -1
+\D'l 7.25i 0'
+.sp 0.2
 \#
 \# --------------------------------------------------------
-.heading "Complete List of Replicable Work (through performance or playback)"
+.heading "Complete List of Replicable Work (through performance and playback)"
 .ps 10
 .TS
 tab(|) nospaces;
@@ -62,8 +66,9 @@ rW5|lW50|lw10|lx.
 [year]|[title]|[duration]|[forces]
 2023|T{
 .B "Circumnutation"
+.I "(fifteen inventions)"
 T}|11 minutes|T{
-keyboard
+keyboard instruments
 .sp .75
 T}
  |T{
@@ -345,8 +350,11 @@ Brass Quintet
 T}
 .TE
 .bp
+.sp -1
+\D'l 7.25i 0'
+.sp 0.2
 .heading "Complete List of Non-replicable Work"
-.heading "(installations/improvisations)"
+.heading "(installations)"
 .ps 10
 .TS
 tab(|) nospaces;
@@ -362,17 +370,6 @@ computer, double bass, saxophone, resonant objects
 .sp .75
 T}|T{
 NY, Rochester: ESM Ray Wright Room
-T}
-9/28/22|T{
-.B "spigot 1"
-.sp -0.2
-.I "8 minutes"
-.sp 0.73
-T}|T{
-saxophone, computer
-.sp .75
-T}|T{
-NY, Rochester: Hatch Recital Hall
 T}
 10/9/19|T{
 .B "Mobility, on beauty"
@@ -397,7 +394,7 @@ T}|T{
 FL, Tampa: Contemporary Art Museum at USF
 T}
 .TE
-.heading "(recorded)"
+.heading "(recordings)"
 .ps 10
 .TS
 tab(|) nospaces;

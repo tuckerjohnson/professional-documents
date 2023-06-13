@@ -1,4 +1,4 @@
-.fam Junicode
+.fam T
 .nr HM 0.5i
 .nr PO 0.5i
 .nr LL 7.25i
