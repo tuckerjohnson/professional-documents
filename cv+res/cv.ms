@@ -1,13 +1,13 @@
 .nr HM 0.5i
 .nr PO 0.5i
 .nr LL 7.25i
-.nr LT 7.5i
-.nr FM 0.25i
+.nr LT 7i
+.nr FM 0.01i
 .nr PS 10p
 .nr VS 15p
-.nr DD 0.5v
 .nr y 1900+\n(yr
-.as LF [% of 10] Tucker Johnson \(em CV \D'l 5i 0 '\D'P 0.6m 0 0 0.6m -0.6m 0'
+.ds CH
+.as LF [% of 5] Tucker Johnson \(em curriculum vitae \D'l 4.2i 0 '\D'P 0.6m 0 0 0.6m 0.6m 0'
 .ds CH \" empty
 
 .de heading
@@ -24,20 +24,20 @@
 .  ie '\\n(.z'' .bp \\$1
 .  el \!.BP \\$1
 ..
-
-.de line
-\D'l 5.2i 0 '\D'P -0.6m 0 0 -0.6m 0.6m 0'
 ..
 
+.de line
+\D'l 4.3i 0 '\D'P -0.6m 0 0 -0.6m -0.6m 0'
+..
 
 \# -----------------------TOP------------------------------
 .ce 0
 .ps 18
 .B "Tucker Johnson"
 .ps 10
-.I "composer, improviser, technologist "
-(CV | updated \n(mo-\ny)
-.br
+.I "composer, improviser"
+(updated \n(mo \(en \ny)
+.sp -0.5
 .line
 .sp -1
 .TS
@@ -53,11 +53,23 @@ T}
 .I "https://newer.systems"
 T}
 .TE
+.sp -1
+\D'l 7.25i 0'
+.sp 0.2
 \# --------------------------------------------------------
 .heading "Education"
 .TS
 tab(|) nospaces;
 lW10|lx.
+08/23 \(en |T{
+.B "Eastman School of Music"
+[Rochester, NY]
+\(en
+.B "Doctor of Philosophy" ,
+Music Composition
+.br
+.sp .25
+T}
 08/21 \(en 05/23|T{
 .B "Eastman School of Music"
 [Rochester, NY]
@@ -332,19 +344,31 @@ Linux Pro Audio,
 Octave/MATLAB
 .sp .5
 \# --------------------------------------------------------
-.heading "Complete List of Replicable Work (through performance or playback)"
+.heading "Complete List of Replicable Work (through performance and playback)"
 .ps 10
 .TS
 tab(|) nospaces;
 rW5|lW50|lw10|lx.
 [year]|[title]|[duration]|[forces]
-2022|T{
-.B "Fifteen Keyboard Inventions*"
-T}|20 minutes|T{
-piano
+2023|T{
+.B "Circumnutation"
+.I "(fifteen inventions)"
+T}|11 minutes|T{
+keyboard instruments
 .sp .75
 T}
  |T{
+.B "...for me, the cowbell..."
+T}|8 minutes|T{
+percussion
+T}
+ |T{
+.I "commissioned by John McGovern"
+.sp .75
+T}| |T{
+.sp .75
+T}
+2022|T{
 .B "Settle the Score"
 .I "in one or five parts"
 T}|1-5 minutes|T{
@@ -443,12 +467,6 @@ T}|5 minutes|T{
 quadrophonic fixed media
 .sp .75
 T}
- |T{
-.B "Somewhat Like the Obelisk"
-T}|14 minutes|T{
-saxophone quartet
-.sp .75
-T}
 2019|T{
 .B "------------"
 T}|22 minutes|T{
@@ -479,9 +497,9 @@ T}
 .B "WRITE/TAKE"
 .sp 0
 .I "for soundSCAPE"
+.sp .75
 T}|6 minutes|T{
 guitar duo
-.sp .75
 T}
  |T{
 .B "CO"
@@ -490,46 +508,9 @@ alto saxophone, piano
 .sp .75
 T}
 2018|T{
-.B "The Identity of Policing"
-T}|4 minutes|T{
-fixed media
-.sp .75
-T}
- |T{
-.B "Four Weeks Now"
-T}|5 minutes|T{
-string quartet
-.sp .75
-T}
- |T{
-.B "There's almost never a point in time when there's no one walking in the hallways"
-.sp .75
-T}|5 minutes|T{
-fixed media
-.sp .75
-T}
- |T{
-.B "Space Flight Participant"
-T}|4 minutes|T{
-double bass
-.sp .75
-T}
- |T{
 .B "All of My Life's Work Up Until This Point"
 T}|5 minutes|T{
 cello
-.sp .75
-T}
- |T{
-.B "Time in North Dakota"
-T}|3 minutes|T{
-viola
-.sp .75
-T}
- |T{
-.B "References to the Antichrist in Ecclesiastical Writings"
-T}|3 minutes|T{
-violin
 .sp .75
 T}
  |T{
@@ -548,12 +529,6 @@ T}
 .sp .75
 T}|8 minutes|T{
 tabla, mallet quartet
-.sp .75
-T}
- |T{
-.B "Numlock"
-T}|6 minutes|T{
-woodwind quintet
 .sp .75
 T}
 2017|T{
@@ -586,33 +561,12 @@ T}|12 minutes|T{
 tenor saxophone
 .sp .75
 T}
- |T{
-.B "Transmissions in a vacuum"
-T}| variable |T{
-open
-.sp .75
-T}
-2016|T{
-.B "Walkin' With Billy"
-T}|10 minutes|T{
-flute, alto saxophone, tenor saxophone, trumpet, glockenspiel (all amplified)
-.sp .75
-T}
- |T{
-.B "Morning Chase"
-T}|5 minutes|T{
-flute, bassoon, 2 violins, viola, cello, bass, percussion
-.sp .75
-T}
- |T{
-.B "Letters Unwritten"
-T}|5 minutes|T{
-Brass Quintet
-.sp .75
-T}
 .TE
+.sp -1
+\D'l 7.25i 0'
+.sp 0.2
 .heading "Complete List of Non-replicable Work"
-.heading "(installations/improvisations)"
+.heading "(installations)"
 .ps 10
 .TS
 tab(|) nospaces;
@@ -628,17 +582,6 @@ computer, double bass, saxophone, resonant objects
 .sp .75
 T}|T{
 NY, Rochester: ESM Ray Wright Room
-T}
-9/28/22|T{
-.B "spigot 1"
-.sp -0.2
-.I "8 minutes"
-.sp 0.73
-T}|T{
-saxophone, computer
-.sp .75
-T}|T{
-NY, Rochester: Hatch Recital Hall
 T}
 10/9/19|T{
 .B "Mobility, on beauty"
@@ -663,7 +606,10 @@ T}|T{
 FL, Tampa: Contemporary Art Museum at USF
 T}
 .TE
-.heading "(recorded)"
+.sp -1
+\D'l 7.25i 0'
+.sp 0.2
+.heading "(recordings)"
 .ps 10
 .TS
 tab(|) nospaces;
@@ -744,15 +690,77 @@ T}|T{
 2) no. please do.
 T}
 .TE
+.sp -1
+\D'l 7.25i 0'
+.sp 0.2
 \#
 \# --------------------------------------------------------
-.bp
 .heading "List of Performances"
 .ps 10.25
 .TS
 tab(|) nospaces;
 rW5|lW30|lw27|lx.
-date|title|performer(s)|venue|
+[date]|[title]|[performer(s)]|[venue]|
+6/14/23|T{
+.B "CO"
+.sp -0.2
+.I "[saxophone, piano]"
+.sp 0.73
+T}|T{
+Katherine Weintraub, Eunmi Ko
+.sp 0.75
+T}|T{
+FL, St. Petersburg: The Palladium
+T}
+3/26/23|T{
+.B "Improvisation"
+.sp -0.2
+.I "[Johnson/Van der Veken]"
+.sp 0.73
+T}|T{
+Tucker Johnson, Floris Van Der Veken
+.sp .75
+T}|T{
+NY, Rochester: Klibourn Hall
+T}
+3/24/23|T{
+.B "Settle the Score"
+.sp -0.2
+.I "[mixed quartet, computer]"
+.sp 0.73
+T}|T{
+Katie Eaton, Nathan McKinstry, Austin White, Artur Korotin, Amber Lucas
+.sp .75
+T}|T{
+PA, State College: Esber Hall
+T}
+3/3/23|T{
+.B "...for me, the cowbell..."
+.sp -0.2
+.I "[percussion]"
+.sp 0.73
+T}|T{
+John McGovern
+T}|T{
+MD, University Park: Gildenhorn Recital Hall
+.sp .75
+T}
+2/1/23|T{
+.B "Fifteen Keyboard Inventions"
+.I "selections"
+.sp -0.2
+.I "[keyboard]"
+.sp 0.73
+T}|T{
+Ko Muramatsu
+T}|T{
+NY, Rochester: Kilbourn Hall
+.sp .75
+T}
+T{
+.BI "2022"
+T}| \(em \(em \(em \(em | \(em \(em \(em \(em | \(em \(em \(em \(em
+ |
 11/17/22|T{
 .B "Fifteen Keyboard Inventions"
 .I "selections"
@@ -788,9 +796,9 @@ T}|T{
 NY, Rochester: ESM Ray Wright Room
 T}
 9/28/22|T{
-.B "spigot 1"
+.B "Improvisation"
 .sp -0.2
-.I "[spigot duo performance]"
+.I "[Johnson/Van der Veken]"
 .sp 0.73
 T}|T{
 Tucker Johnson, Floris Van Der Veken
@@ -1457,5 +1465,8 @@ T}|T{
 FL, Saint Petersburg: Pinellas County Center for the Arts
 T}
 .TE
+.sp -1
+\D'l 7.25i 0'
+.sp 0.2
 .sp 1
 .heading "References Available Upon Request"

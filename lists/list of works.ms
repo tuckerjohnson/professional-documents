@@ -181,12 +181,6 @@ T}|5 minutes|T{
 quadrophonic fixed media
 .sp .75
 T}
- |T{
-.B "Somewhat Like the Obelisk"
-T}|14 minutes|T{
-saxophone quartet
-.sp .75
-T}
 2019|T{
 .B "------------"
 T}|22 minutes|T{
@@ -228,46 +222,9 @@ alto saxophone, piano
 .sp .75
 T}
 2018|T{
-.B "The Identity of Policing"
-T}|4 minutes|T{
-fixed media
-.sp .75
-T}
- |T{
-.B "Four Weeks Now"
-T}|5 minutes|T{
-string quartet
-.sp .75
-T}
- |T{
-.B "There's almost never a point in time when there's no one walking in the hallways"
-.sp .75
-T}|5 minutes|T{
-fixed media
-.sp .75
-T}
- |T{
-.B "Space Flight Participant"
-T}|4 minutes|T{
-double bass
-.sp .75
-T}
- |T{
 .B "All of My Life's Work Up Until This Point"
 T}|5 minutes|T{
 cello
-.sp .75
-T}
- |T{
-.B "Time in North Dakota"
-T}|3 minutes|T{
-viola
-.sp .75
-T}
- |T{
-.B "References to the Antichrist in Ecclesiastical Writings"
-T}|3 minutes|T{
-violin
 .sp .75
 T}
  |T{
@@ -286,12 +243,6 @@ T}
 .sp .75
 T}|8 minutes|T{
 tabla, mallet quartet
-.sp .75
-T}
- |T{
-.B "Numlock"
-T}|6 minutes|T{
-woodwind quintet
 .sp .75
 T}
 2017|T{
@@ -324,32 +275,7 @@ T}|12 minutes|T{
 tenor saxophone
 .sp .75
 T}
- |T{
-.B "Transmissions in a vacuum"
-T}| variable |T{
-open
-.sp .75
-T}
-2016|T{
-.B "Walkin' With Billy"
-T}|10 minutes|T{
-flute, alto saxophone, tenor saxophone, trumpet, glockenspiel (all amplified)
-.sp .75
-T}
- |T{
-.B "Morning Chase"
-T}|5 minutes|T{
-flute, bassoon, 2 violins, viola, cello, bass, percussion
-.sp .75
-T}
- |T{
-.B "Letters Unwritten"
-T}|5 minutes|T{
-Brass Quintet
-.sp .75
-T}
 .TE
-.bp
 .sp -1
 \D'l 7.25i 0'
 .sp 0.2
@@ -394,6 +320,9 @@ T}|T{
 FL, Tampa: Contemporary Art Museum at USF
 T}
 .TE
+.sp -1
+\D'l 7.25i 0'
+.sp 0.2
 .heading "(recordings)"
 .ps 10
 .TS
@@ -475,3 +404,6 @@ T}|T{
 2) no. please do.
 T}
 .TE
+.sp -1
+\D'l 7.25i 0'
+.sp 0.2
