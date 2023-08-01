@@ -1,60 +1,4 @@
-.fam Junicode
-.nr HM 0.5i
-.nr PO 0.5i
-.nr LL 7.25i
-.nr LT 7i
-.nr FM 0.01i
-.nr PS 10p
-.nr VS 15p
-.nr HY 0
-.nr y 1900+\n(yr
-.ds CH
-.as LF [% of 2] Tucker Johnson \(em biographies \D'l 4.2i 0 '\D'P 0.6m 0 0 0.6m 0.6m 0'
-.ds CH \" empty
-
-.de heading
-.   nf
-.   ps 13
-.   B "\\$1"
-\h’0n’\v’-1.2n’
-.   ps 11
-.   sp -1
-.   fi
-..
-
-.de BP
-.  ie '\\n(.z'' .bp \\$1
-.  el \!.BP \\$1
-..
-..
-
-
-\# -----------------------TOP------------------------------
-.ce 0
-.ps 18
-.B "Tucker Johnson"
-.ps 10
-.I "composer, performer, educator"
-(updated \n(mo/\ny)
-.sp -0.5
-\D'l 4.7i 0 '\D'P -0.6m 0 0 -0.6m -0.6m 0'
-.sp -1
-.TS
-tab(|) nospaces;
-l rx.
-169 spring tree ln|T{
-.I "tucker [@] newer.systems"
-T}
-Rochester, NY|T{
-.I "(727) 483-3689"
-T}
-14612|T{
-.I "https://newer.systems"
-T}
-.TE
-\D'l 7.25i 0'
-.br
-\# --------------------------------------------------------
+\# module - BIO
 .sp 0.5
 .heading "Full Bio"
 .lj
@@ -119,7 +63,7 @@ Tucker completed the MA at the Eastman School of Music under the instruction of 
 .br
 \D'l 7.25i 0'
 .sp 0.3
-.heading "Very Short Bio/introduciton"
+.heading "Very Short Bio/introduction"
 .sp 0.3
 Based in Rochester, New York,
 .B "Tucker Johnson"

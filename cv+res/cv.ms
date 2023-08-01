@@ -1,110 +1,36 @@
-.nr HM 0.5i
-.nr PO 0.5i
-.nr LL 7.25i
-.nr LT 7i
-.nr FM 0.01i
-.nr PS 10p
-.nr VS 15p
-.nr y 1900+\n(yr
-.ds CH
-.as LF [% of 5] Tucker Johnson \(em curriculum vitae \D'l 4.2i 0 '\D'P 0.6m 0 0 0.6m 0.6m 0'
-.ds CH \" empty
-
-.de heading
-.   nf
-.   ps 13
-.   B "\\$1"
-\h’0n’\v’-1.2n’
-.   ps 11
-.   sp -1
-.   fi
-..
-
-.de BP
-.  ie '\\n(.z'' .bp \\$1
-.  el \!.BP \\$1
-..
-..
-
-.de line
-\D'l 4.3i 0 '\D'P -0.6m 0 0 -0.6m -0.6m 0'
-..
-
-\# -----------------------TOP------------------------------
-.ce 0
-.ps 18
-.B "Tucker Johnson"
-.ps 10
-.I "composer, improviser"
-(updated \n(mo \(en \ny)
-.sp -0.5
-.line
-.sp -1
-.TS
-tab(|) nospaces;
-l rx.
-169 spring tree ln|T{
-.I "tucker [@] newer.systems"
-T}
-Rochester, NY|T{
-.I "(727) 483-3689"
-T}
-14612|T{
-.I "https://newer.systems"
-T}
-.TE
-.sp -1
-\D'l 7.25i 0'
-.sp 0.2
-\# --------------------------------------------------------
 .heading "Education"
 .TS
 tab(|) nospaces;
-lW10|lx.
-08/23 \(en |T{
+rw24|lx.
+T{
 .B "Eastman School of Music"
-[Rochester, NY]
-\(en
+T}|T{
 .B "Doctor of Philosophy" ,
-Music Composition
+Music Composition (in progress)
 .br
-.sp .25
-T}
-08/21 \(en 05/23|T{
-.B "Eastman School of Music"
-[Rochester, NY]
-\(en
 .B "Master of Arts" ,
-Music Composition
+Music Composition (05/2023)
 .br
-.B "Institute for Music Leadership:"
-Arts Leadership Certificate
-.br
-Primary Teachers: Robert Morris, Mathew Barber, David Liptak
-.br
-.sp .25
+.B "Catherine Filene Shouse Arts Leadership Certificate"
+(05/2023)
+.sp 0.2
 T}
-01/20 \(en 05/21|T{
+T{
 .B "Pennsylvania State University"
-[State College, PA]
-\(en Bachelor of Music, Music Composition
-.br
-Primary Teachers: Baljinder Sekhon, Sarah Genevieve Burghart Rice
-.sp .25
-T}
-08/17 \(en 12/19|T{
-.B "University of South Florida"
-[Tampa, FL]
-\(en Bachelor of Music, Music Composition
-.br
-Primary Teachers: Paul Reller, Susanna Hancock, Benjamin Whiting
-.br
-(transfered after fall 2019 semester)
-.sp 0.25
+T}|T{
+.B "Bachelor of Music" ,
+Music Composition (05/2021)
+.sp 0.2
 T}
 .TE
 \# --------------------------------------------------------
 .heading "Roles and Experience"
+.sp 0.2
+.B "Penn State Young Composers Institute"
+[remote]
+\(en Instructor
+.br
+Teach Classes
 .TS
 tab(|) nospaces;
 lW10|lx.

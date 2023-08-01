@@ -1,63 +1,4 @@
-.nr HM 0.5i
-.nr PO 0.5i
-.nr LL 7.25i
-.nr LT 7i
-.nr FM 0.01i
-.nr PS 10p
-.nr VS 15p
-.nr y 1900+\n(yr
-.ds CH
-.as LF [% of 3] Tucker Johnson \(em list of works \D'l 4.2i 0 '\D'P 0.6m 0 0 0.6m 0.6m 0'
-.ds CH \" empty
-
-.de heading
-.   nf
-.   ps 13
-.   B "\\$1"
-\h’0n’\v’-1.2n’
-.   ps 11
-.   sp -1
-.   fi
-..
-
-.de BP
-.  ie '\\n(.z'' .bp \\$1
-.  el \!.BP \\$1
-..
-..
-
-.de line
-\D'l 4.3i 0 '\D'P -0.6m 0 0 -0.6m -0.6m 0'
-..
-
-\# -----------------------TOP------------------------------
-.ce 0
-.ps 18
-.B "Tucker Johnson"
-.ps 10
-.I "composer, improviser"
-(updated \n(mo \(en \ny)
-.sp -0.5
-.line
-.sp -1
-.TS
-tab(|) nospaces;
-l rx.
-169 spring tree ln|T{
-.I "tucker [@] newer.systems"
-T}
-Rochester, NY|T{
-.I "(727) 483-3689"
-T}
-14612|T{
-.I "https://newer.systems"
-T}
-.TE
-.sp -1
-\D'l 7.25i 0'
-.sp 0.2
-\#
-\# --------------------------------------------------------
+\# module - LOW CV
 .heading "Complete List of Replicable Work (through performance and playback)"
 .ps 10
 .TS
@@ -129,12 +70,6 @@ voice, trumpet, bass clarinet, trombone
 .sp .75
 T}
  |T{
-.B "The Melody of Practice"
-T}|3 minutes|T{
-oboe
-.sp .75
-T}
- |T{
 .B "Wears and Tears"
 T}|5 minutes|T{
 clarinet, computer
@@ -147,7 +82,7 @@ vibraphone, live-processing
 .sp .75
 T}
  |T{
-.B "Is Breathing"
+.B "Transpile"
 T}|8 minutes|T{
 alto saxophone
 .sp .75
