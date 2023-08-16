@@ -15,8 +15,7 @@ Additional honors include the Belle S. Gitelman Prize, Peter T. Luckie Award, an
 A consistent supporter of new music, Tucker has helped organize many events, festivals, and concerts and served various music organizations throughout his academic career.
 Currently, he serves as technical director of OSSIA New Music, a student-run organization at the Eastman School of Music committed to performing the works of contemporary composers.
 He has also worked with the Hochstein School, WXXI Classical, Penn State's Living Music, and the New Music Consortium.
-Additionally, Tucker serves as a sound engineer, technician, and teaching assistant with the Electronic Music Studios at Eastman (EMusE) and has produced and performed dozens of electroacoustic works in this position with artists and ensembles such as Alarm Will
-Sound, percussionist Dan Druckman, and soprano Jamie Jordan.
+Additionally, Tucker serves as a sound engineer, technician, and teaching assistant with the Electronic Music Studios at Eastman (EMuSE) and has produced and performed dozens of electroacoustic works in this position with artists such as Alan Pierson, percussionist Dan Druckman, and soprano Jamie Jordan.
 .sp 0.3
 In his research, he has worked to develop approaches to music composition and collaborative improvisation using mathematics, networked computer instruments, machine listening, ambisonics, and other computer-assisted methods, with a tendency to favor recycled and reclaimed computer hardware.
 Listeners can hear this work in improvised performances with Belgian saxophonist Floris Van Der Veken, recordings with percussionist/guitarist John McGovern, and performances with Ossia New Music.

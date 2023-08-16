@@ -6,7 +6,8 @@
 .br
 teach classes;
 write curriculum;
-organize and edit recording sessions
+organize and edit recording sessions;
+advise students on college applications
 .XP
 .B "OSSIA New Music"
 \(en Technical Director/Webmaster (since 05/2023)
@@ -14,7 +15,7 @@ organize and edit recording sessions
 oversee technical and electronic components of OSSIA performances;
 maintain spreadsheets and forms for repertoire, commission proposals, and call for scores
 .XP
-.B "Electronic Music Studios @ Eastman (EMusE)"
+.B "Electronic Music Studios @ Eastman (EMuSE)"
 \(en Teaching Assistant/Sound Engineer/Technician (since 08/2021)
 .br
 instruct graduate and undergraduate computer music students;
@@ -58,4 +59,5 @@ maintain ROARS studio equipment and facilities
 organized rehearsals;
 oversaw music rentals;
 provided scores and parts to performers
+.sp .25
 .LP

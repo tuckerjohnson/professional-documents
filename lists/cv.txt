@@ -1,4 +1,7 @@
-modules/edu.ms
+modules/education.ms
 modules/positions.ms
+modules/honors.ms
+modules/programs.ms
+modules/proficiency.ms
 modules/low.ms
 modules/lop.ms

@@ -23,4 +23,11 @@ T}|T{
 Music Composition (05/2021)
 .sp 0.2
 T}
+T{
+.B "University of South Florida"
+T}|T{
+.B "Bachelor of Music" ,
+Acoustic and Electronic Music Composition (transferred)
+.sp 0.2
+T}
 .TE

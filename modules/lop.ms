@@ -50,7 +50,7 @@ MD, University Park: Gildenhorn Recital Hall
 .sp .75
 T}
 2/1/23|T{
-.B "Fifteen Keyboard Inventions"
+.B "Circumnutation"
 .I "selections"
 .sp -0.2
 .I "[keyboard]"
@@ -66,7 +66,7 @@ T{
 T}| \(em \(em \(em \(em | \(em \(em \(em \(em | \(em \(em \(em \(em
  |
 11/17/22|T{
-.B "Fifteen Keyboard Inventions"
+.B "Circumnutation"
 .I "selections"
 .sp -0.2
 .I "[keyboard]"
@@ -111,7 +111,7 @@ T}|T{
 NY, Rochester: Hatch Recital Hall
 T}
 9/19/22|T{
-.B "Fifteen Keyboard Inventions"
+.B "Circumnutation"
 .I "selections"
 .sp -0.2
 .I "[keyboard]"
