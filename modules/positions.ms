@@ -138,9 +138,11 @@ Use Bloomerang donor management systems to research and organize constituents
 .B "Living Music @ Penn State"
 \(en President (03/2020 - 05/2021)
 .br
-organize and maintain organization rosters;
-oversee funding requests;
-host and produce weekly radio show;
+\[bu]\0
+oversee funding requests through Penn State UPAC
+.br
+\[bu]\0
+Host and produce weekly radio show
 produce events and concerts (International New Music Festival, Call for Scores, etc.)
 .LP
 \########################################
