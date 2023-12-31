@@ -1,5 +1,5 @@
 \# module - CV
-.heading "Education"
+.heading "EDUCATION"
 .TS
 tab(|) nospaces;
 lw24|lx.
@@ -11,6 +11,9 @@ Music Composition (in progress)
 .br
 .B "Master of Arts" ,
 Music Composition (05/2023)
+.br
+\[bu]\0\0Thesis:
+.I "Computer Instrument Design in Digital Signal Processing Pedagogy"
 .br
 .B "Catherine Filene Shouse Arts Leadership Certificate"
 (05/2023)

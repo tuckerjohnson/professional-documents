@@ -1,5 +1,5 @@
 \# module - LOW CV
-.heading "Complete List of Replicable Work (through performance and playback)"
+.heading "COMPLETE LIST OF REPLICABLE WORK (through performance and playback)"
 .ps 10
 .TS
 tab(|) nospaces;
@@ -214,7 +214,7 @@ T}
 .sp -1
 \D'l 7.25i 0'
 .sp 0.2
-.heading "Complete List of Non-replicable Work"
+.heading "COMPLETE LIST OF NON-REPLICABLE WORK"
 .heading "(installations)"
 .ps 10
 .TS

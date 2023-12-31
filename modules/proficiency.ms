@@ -26,7 +26,7 @@ Octave/MATLAB,
 Wolfram Mathmatica
 .I "technical computing" ]; [
 AWK,
-Bash,
+Shell,
 Lua,
 Guile,
 sed

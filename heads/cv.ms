@@ -14,7 +14,7 @@
 
 .de heading
 .   nf
-.   ps 15
+.   ps 14
 .   B "\\$1"
 \h’0n’\v’-1.2n’
 .   ps 11

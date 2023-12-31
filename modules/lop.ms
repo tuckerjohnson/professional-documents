@@ -1,5 +1,5 @@
 \# module - LOP CV
-.heading "List of Performances"
+.heading "LIST OF PERFORMANCES"
 .ps 10.25
 .TS
 tab(|) nospaces;
