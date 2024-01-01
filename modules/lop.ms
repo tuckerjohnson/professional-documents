@@ -5,6 +5,17 @@
 tab(|) nospaces;
 rW5|lW30|lw27|lx.
 [date]|[title]|[performer(s)]|[venue]|
+10/16/23|T{
+.B "Circumnutation"
+.sp -0.2
+.I "[piano, fortepiano]"
+.sp 0.73
+T}|T{
+Ko Muramatsu, Even Cao, Luke Poeppel
+.sp 0.75
+T}|T{
+NY, Rochester: Hatch Recital Hall
+T}
 6/14/23|T{
 .B "CO"
 .sp -0.2

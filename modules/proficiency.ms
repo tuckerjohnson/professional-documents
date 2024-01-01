@@ -11,6 +11,7 @@ Max/MSP,
 Supercollider,
 PureData,
 .I "digital audio environments" ]; [
+Final Cut,
 Da Vinci Resolve,
 Flowblade,
 Open Broadcaster Software,

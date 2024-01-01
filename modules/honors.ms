@@ -5,32 +5,37 @@ tab(|) nospaces;
 rW5|lx.
 2023|T{
 .B "Belle S. Gitelman Prize"
-\(em
+\(en
 Eastman School of Music
 .I "Circumnutation" ) (
+.br
+.B "Special Opportunity Grant"
+\(en
+Institute for Music Leadership
+.I "to attend the Penn State International New Music Festival & Symposium" ) (
 .sp .25
 T}
 2021|T{
 .B "1st Place: Undergraduate Research in Arts and Humanities"
-\(em
+\(en
 Penn State University
 .I "Listening to Ghosts, Imagining Lost Futures: Metaphor and Structure in Wears and Tears" ) (
 .sp .25
 T}
 2020|T{
 .B "Marjorie Jane Brewster Competition"
-\(em
+\(en
 Penn State University
 .br
 .B "Peter T. Luckie Award"
-\(em
+\(en
 Penn State University
 .I "A Presence Within Reassembly" ) (
 .sp .25
 T}
 2019|T{
 .B "Dot-the-Line Call for Scores"
-\(em
+\(en
 Dot-the-Line, South Korea
 .I "CO" ) (
 .sp .25
