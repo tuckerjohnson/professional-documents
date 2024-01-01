@@ -1,5 +1,5 @@
 \# module - CV
-.heading "Honors and Awards"
+.heading "HONORS, AWARDS, AND GRANTS"
 .TS
 tab(|) nospaces;
 rW5|lx.

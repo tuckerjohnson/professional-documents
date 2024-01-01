@@ -18,6 +18,7 @@ Rochester, NY|T{
 .I "(727) 483-3689"
 T}
 14612|T{
-.I "https://newer.systems"
+.I
+.pdfhref W -D https://newer.systems -A \0 https://newer.systems
 T}
 .TE
