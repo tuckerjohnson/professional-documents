@@ -19,6 +19,6 @@ Rochester, NY|T{
 T}
 14612|T{
 .I
-.pdfhref W -D https://newer.systems -A \0 https://newer.systems
+.pdfhref W -D https://newer.systems https://newer.systems
 T}
 .TE

@@ -1,5 +1,5 @@
 \# module - CV
-.heading "Festivals, Programs, and Conferences"
+.heading "FESTIVALS, PROGRAMS, AND CONFERENCES"
 .TS
 tab(|) nospaces;
 rW5|lx.

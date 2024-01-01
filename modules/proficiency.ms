@@ -1,5 +1,5 @@
 \# module - CV
-.heading "Software/Technical Proficiency"
+.heading "SOFTWARE/TECHNICAL PROFICIENCY"
 Finale,
 Sibelius,
 Lilypond
