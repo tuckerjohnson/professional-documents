@@ -39,3 +39,5 @@ Windows
 HUGO
 .I "static web development" ] [
 .sp .5
+.LP
+\0

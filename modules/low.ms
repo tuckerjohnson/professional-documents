@@ -265,7 +265,8 @@ tab(|) nospaces;
 rW5|lW28|lw37|lx.
 [year]|[title/duration]|[credits]|[tracks]
 2020|T{
-.B "spank; + Logan Barrett"
+.B
+.pdfhref W -D https://spankoo.bandcamp.com/album/spank-logan-barrett spank; + Logan Barrett
 .sp -0.2
 .I "73 minutes"
 T}|T{
@@ -299,7 +300,8 @@ T}|T{
 .sp .75
 T}
  |T{
-.B "FOR NATE"
+.B
+.pdfhref W -D https://spankoo.bandcamp.com/track/for-nate FOR NATE
 .sp -0.2
 .I "10 minutes"
 T}|T{
@@ -325,7 +327,9 @@ T}|T{
 .sp .75
 T}
 2019|T{
-.B "Maritime Chaparral"
+.B
+.pdfhref W -D https://spankoo.bandcamp.com/album/maritime-chaparral Maritime Chaparral
+.R
 .sp -0.2
 .I "17 minutes"
 T}|T{
@@ -342,3 +346,5 @@ T}
 .sp -1
 \D'l 7.25i 0'
 .sp 0.2
+.LP
+\0

@@ -2,9 +2,9 @@ modules/education.ms
 modules/positions.ms
 modules/honors.ms
 modules/programs.ms
-modules/commissions.ms
 modules/research.ms
 modules/presentations.ms
+modules/commissions.ms
+modules/proficiency.ms
 modules/low.ms
 modules/lop.ms
-modules/proficiency.ms

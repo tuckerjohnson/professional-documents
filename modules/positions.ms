@@ -100,6 +100,7 @@ Provide equipment and services for Eastman concerts (5-7 per semester)
 Maintain equipment and facilities: keep detailed inventory and maintain studio
 deployments
 .LP
+.bp
 \###############################################################################
 .B
 .UL "Previous Positions"
@@ -191,3 +192,4 @@ Oversaw music rentals
 Provided scores and parts to performers and conductors
 .sp .25
 .LP
+\0

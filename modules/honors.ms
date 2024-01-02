@@ -41,3 +41,5 @@ Dot-the-Line, South Korea
 .sp .25
 T}
 .TE
+.LP
+\0

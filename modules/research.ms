@@ -25,3 +25,4 @@ Some of this work available on
 Researched technical and philosophical issues in DSP pedagogy
 .sp .25
 .LP
+\0
