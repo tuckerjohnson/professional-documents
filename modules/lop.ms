@@ -1,10 +1,36 @@
-\# module - LOP CV
+\# root = ../lop.ms
 .heading "LIST OF PERFORMANCES"
 .ps 10.25
 .TS
 tab(|) nospaces;
 rW5|lW30|lw27|lx.
 [date]|[title]|[performer(s)]|[venue]|
+06/1/24|T{
+.B "Quads I"
+.sp -0.2
+.I "[percussion quartet]"
+.sp 0.73
+T}|T{
+Matchstick Percussion
+.sp 0.75
+T}|T{
+PA, Centre Hall: Rhoneymeade Fest
+T}
+03/30/23|T{
+.B "Net Clarity (III)"
+.sp -0.2
+.I "[clarinet, piano]"
+.sp 0.73
+T}|T{
+Amber Lucas, Ryena Lee
+.sp 0.75
+T}|T{
+MI, East Lansing: Cook Recital Hall
+T}
+T{
+.BI "2023"
+T}| \(em \(em \(em \(em | \(em \(em \(em \(em | \(em \(em \(em \(em
+ |
 10/16/23|T{
 .B "Circumnutation"
 .sp -0.2
@@ -781,4 +807,3 @@ FL, Saint Petersburg: Pinellas County Center for the Arts
 T}
 .TE
 .LP
-\0

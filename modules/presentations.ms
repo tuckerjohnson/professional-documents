@@ -1,8 +1,20 @@
-\# module - CV
+\# root = ../cv.ms
 .heading "WRITINGS, INTERVIEWS, AND PRESENTATIONS"
 .TS
 tab(|) nospaces;
 rW5|lx.
+2024|T{
+.B "Graduate Composition Seminar: CMP 592,"
+.BI "Indian Classical Music"
+\(en
+presentation
+.br
+\[bu]\0
+Research presentation:
+.I "Transcription and analysis of a solo Sarod performance by Abhisek Lahiri"
+.br
+.sp .25
+T}
 2023|T{
 .B "Graduate History Seminar: MHS 594,"
 .BI "Bollywood Songs and South Asian Culture"
@@ -47,4 +59,3 @@ Interview with composer David Liptak
 T}
 .TE
 .LP
-\0

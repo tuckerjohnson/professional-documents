@@ -1,4 +1,4 @@
-\# module - CV
+\# root = ../cv.ms
 .heading "EDUCATION"
 .TS
 tab(|) nospaces;
@@ -35,4 +35,3 @@ Acoustic and Electronic Music Composition (transferred)
 T}
 .TE
 .LP
-\0

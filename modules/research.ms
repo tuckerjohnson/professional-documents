@@ -1,4 +1,4 @@
-\# module - CV
+\# root = ../cv.ms
 .heading "RESEARCH"
 .LP
 .B "Instruments and tools for improvisation and composition"
@@ -25,4 +25,3 @@ Some of this work available on
 Researched technical and philosophical issues in DSP pedagogy
 .sp .25
 .LP
-\0

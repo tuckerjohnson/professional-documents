@@ -1,4 +1,4 @@
-\# module - CV
+\# root = ../cv.ms
 .heading "SOFTWARE/TECHNICAL PROFICIENCY"
 Finale,
 Sibelius,
@@ -40,4 +40,3 @@ HUGO
 .I "static web development" ] [
 .sp .5
 .LP
-\0

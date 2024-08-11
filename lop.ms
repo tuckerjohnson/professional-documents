@@ -1,4 +1,3 @@
-\# module - LOW HEAD
 .fam Junicode
 .nr HM 0.5i
 .nr PO 0.5i
@@ -9,7 +8,7 @@
 .nr VS 15p
 .nr y 1900+\n(yr
 .ds CH
-.as LF [%] Tucker Johnson \(em list of works \D'l 4.2i 0 '\D'P 0.6m 0 0 0.6m 0.6m 0'
+.as LF [%] Tucker Johnson \(em list of performances \D'l 4.2i 0 '\D'P 0.6m 0 0 0.6m 0.6m 0'
 .ds CH \" empty
 
 .de heading
@@ -21,3 +20,6 @@
 .   sp -1
 .   fi
 ..
+
+.so modules/top.ms
+.so modules/lop.ms

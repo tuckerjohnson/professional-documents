@@ -1,4 +1,4 @@
-\# module - CV
+\# root = ../cv.ms
 .heading "COMMISSIONS"
 .TS
 tab(|) nospaces;
@@ -28,7 +28,7 @@ composition for sinfonietta
 .B "Eunmi Ko and Robert McCormick"
 \(en
 composition for piano and percussion
-.I "Even the Pieces I can’t Remember" ) (
+.I "Even the Pieces I can't Remember" ) (
 .sp .25
 T}
 2020|T{
@@ -56,4 +56,3 @@ composition for youth orchestra
 T}
 .TE
 .LP
-\0

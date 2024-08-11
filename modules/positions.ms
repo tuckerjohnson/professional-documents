@@ -1,6 +1,7 @@
-\# module - CV
+\# root = ../cv.ms
 .heading "ROLES AND EXPERIENCE"
 .sp 0.2
+.KS
 .B
 .UL "Current Positions"
 .LP
@@ -24,6 +25,8 @@ Organize and edit recording sessions of student pieces
 .br
 \[bu]\0
 Advise students on university applications and seeking professional opportunities
+.KE
+.KS
 .LP
 \######################################
 .B "Eastman Media Lab (T&MP)"
@@ -37,36 +40,8 @@ Administer and maintain media lab systems and software (MacOS)
 .br
 \[bu]\0
 Supervise lab hours and assist with in-lab classes
-.LP
-\######################################
-.B "OSSIA New Music"
-[Rochester, NY] \(en Technical Director/Webmaster (since 05/2023)
-.br
-\[bu]\0
-Oversee technical and electronic components of OSSIA performances
-.br
-\[bu]\0
-Maintain spreadsheets and forms for repertoire proposals, commission proposals,
-and international call for works
-.br
-\[bu]\0
-Update and maintain OSSIA website content and hosting:
-.pdfhref W -D http://www.ossianewmusic.org ossianewmusic.org
-.LP
-\########################################
-.B "Eastman Graduate Composers' Sinfonietta"
-[Rochester, NY] \(en President (since 05/2023), Recruiter (05/2022 - 05/2023)
-.br
-\[bu]\0
-Recruit performers to present a concert of sinfonietta compositions by
-graduate student composers
-.br
-\[bu]\0
-Propose and execute yearly and semesterly budgets with the Institute of Music
-Leadership and the Dean's Office
-.br
-\[bu]\0
-Handle payment paperwork and maintain records for performer payments
+.KE
+.KS
 .LP
 \######################################
 .B "Electroacoustic Music Studios @ Eastman (EMuSE)"
@@ -99,12 +74,47 @@ Provide equipment and services for Eastman concerts (5-7 per semester)
 \[bu]\0
 Maintain equipment and facilities: keep detailed inventory and maintain studio
 deployments
+.KE
+.KS
 .LP
-.bp
 \###############################################################################
 .B
 .UL "Previous Positions"
 .LP
+.B "OSSIA New Music"
+[Rochester, NY] \(en Technical Director/Webmaster (05/2023 - 05/2024)
+.br
+\[bu]\0
+Oversee technical and electronic components of OSSIA performances
+.br
+\[bu]\0
+Maintain spreadsheets and forms for repertoire proposals, commission proposals,
+and international call for works
+.br
+\[bu]\0
+Update and maintain OSSIA website content and hosting:
+.pdfhref W -D http://www.ossianewmusic.org ossianewmusic.org
+.KE
+.KS
+.LP
+\########################################
+.B "Eastman Graduate Composers' Sinfonietta"
+[Rochester, NY] \(en President/Recruiter (05/2022 - 05/2024)
+.br
+\[bu]\0
+Recruit performers to present a concert of sinfonietta compositions by
+graduate student composers
+.br
+\[bu]\0
+Propose and execute yearly and semesterly budgets with the Institute of Music
+Leadership and the Dean's Office
+.br
+\[bu]\0
+Handle payment paperwork and maintain records for performer payments
+.KE
+.KS
+.LP
+\######################################
 .B "WXXI Classical"
 [Rochester, NY] \(en Classical Intern (01/2023 - 05/2023)
 .br
@@ -124,6 +134,8 @@ midi protocol
 \[bu]\0
 Work Sample:
 .pdfhref W -D https://www.wxxiclassical.org/musicians-of-rochester-1/2023-03-01/eastman-david-liptak-retirement-composer Eastman composer David Liptak looks forward to the next chapter
+.KE
+.KS
 .LP
 \########################################
 .B "The Hochstein School"
@@ -140,6 +152,8 @@ Shadowed Hochstein grant-writing processes
 .br
 \[bu]\0
 Used Bloomerang donor management systems to research and organize constituents
+.KE
+.KS
 .LP
 \########################################
 .B "Living Music @ Penn State"
@@ -154,6 +168,8 @@ Hosted and produced weekly student radio show
 \[bu]\0
 Produced events and concerts (International New Music Festival, Call for
 Scores, etc.)
+.KE
+.KS
 .LP
 \########################################
 .B "ROARS Recording Studios at Penn State"
@@ -177,6 +193,8 @@ Worked closely with ROARS faculty on special projects and to maintain studio equ
 Work Sample:
 .pdfhref W -D https://youtu.be/VGQAU11vmZo?feature=shared -A , Dido and Aeneas
 by Penn State Opera Theatre
+.KE
+.KS
 .LP
 \########################################
 .B "The New Music Consortium at USF"
@@ -190,6 +208,6 @@ Oversaw music rentals
 .br
 \[bu]\0
 Provided scores and parts to performers and conductors
+.KE
 .sp .25
 .LP
-\0

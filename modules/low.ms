@@ -1,10 +1,45 @@
-\# module - LOW CV
+\# root = ../low.ms
 .heading "COMPLETE LIST OF REPLICABLE WORK (through performance and playback)"
 .ps 10
 .TS
 tab(|) nospaces;
 rW5|lW50|lw10|lx.
 [year]|[title]|[duration]|[forces]
+2024|T{
+.B "Inner Clarity" \*{\[dg]\*}
+T}|10 minutes|T{
+wind ensemble
+.sp .75
+T}
+ |T{
+.B "Latter Clarity" \*{\[dg]\*}
+T}|11 minutes|T{
+solo clarinet, sinfonietta
+T}
+ |T{
+.I "commissioned by the Eastman Graduate Composers' Sinfonietta"
+.sp .75
+T}| |T{
+.sp .75
+T}
+ |T{
+.B "Net Clarity" \*{\[dg]\*}
+T}|22 minutes|T{
+clarinet, piano
+.sp .75
+T}
+ |T{
+.B "Reassembly Redux" \*{\[dg]\*}
+T}|8 minutes|T{
+ambisonic fixed media
+.sp .75
+T}
+ |T{
+.B "QUADS I"
+T}|8 minutes|T{
+percussion quartet
+.sp .75
+T}
 2023|T{
 .B "Circumnutation"
 .I "(fifteen inventions)"

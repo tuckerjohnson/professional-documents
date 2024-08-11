@@ -1,8 +1,15 @@
-\# module - CV
+\# root = ../cv.ms
 .heading "HONORS, AWARDS, AND GRANTS"
 .TS
 tab(|) nospaces;
 rW5|lx.
+2024|T{
+.B "Belle S. Gitelman Prize"
+\(en
+Eastman School of Music
+.I "Net Clarity" ) (
+.sp .25
+T}
 2023|T{
 .B "Belle S. Gitelman Prize"
 \(en
@@ -42,4 +49,3 @@ Dot-the-Line, South Korea
 T}
 .TE
 .LP
-\0

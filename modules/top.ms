@@ -1,4 +1,4 @@
-\# module LOW LOP CV RES BIO
+\# root = ../cv.ms
 .ce 0
 .ps 18
 .B "Tucker Johnson"
@@ -11,13 +11,13 @@
 .TS
 tab(|) nospaces;
 l rx.
-169 spring tree ln|T{
+120 brook meadows trail|T{
 .I "tucker [@] newer.systems"
 T}
-Rochester, NY|T{
-.I "(727) 483-3689"
+Brockport, NY|T{
+.I "+1 (727) 483-3689"
 T}
-14612|T{
+14420|T{
 .I
 .pdfhref W -D https://newer.systems https://newer.systems
 T}

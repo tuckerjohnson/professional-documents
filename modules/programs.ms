@@ -1,4 +1,4 @@
-\# module - CV
+\# root = ../cv.ms
 .heading "FESTIVALS, PROGRAMS, AND CONFERENCES"
 .TS
 tab(|) nospaces;
@@ -80,4 +80,3 @@ commissioned work:
 T}
 .TE
 .LP
-\0
